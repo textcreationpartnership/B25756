@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints rest, and revvard in heaven Set forth in a sermon preached at the funerall of the most vertuous and truly religious gentlewoman, Mrs. Anne Tirwhytt, widdow of Robert Tirwhytt of Camringham in the county of Lincolne, Esq. Decemb. 8. 1652. By John Leigh, Master of Arts, and preacher of Gods word at Camringham near Lincolne.</title>
+            <author>Leigh, John, of Camringham, Lincolnshire.</author>
+         </titleStmt>
+         <extent>Approx. 107KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25756</idno><idno type="EEBO-CITATION">99827787</idno>
+  <idno type="VID">206882</idno>
+  <idno type="EEBO-PROQUEST">2240881077</idno>
+  
+            <idno type="STC">Wing L1017A</idno>
+            <idno type="PROQUEST">99827787</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827787e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1853:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints rest, and revvard in heaven Set forth in a sermon preached at the funerall of the most vertuous and truly religious gentlewoman, Mrs. Anne Tirwhytt, widdow of Robert Tirwhytt of Camringham in the county of Lincolne, Esq. Decemb. 8. 1652. By John Leigh, Master of Arts, and preacher of Gods word at Camringham near Lincolne.</title>
+                  <author>Leigh, John, of Camringham, Lincolnshire.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.G. for Tho: Heath dwelling in Russel-street in Covent-garden near the Piazza,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tirwhytt, Anne, d. 1652 --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Revelation XIV, 13 --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206882:1"/>
+            <pb facs="tcp:206882:1"/>
+            <p>THE Saints Rest, AND REWARD IN <hi>HEAVEN.</hi>
+            </p>
+            <p>Set forth in a Sermon preached at the Funerall of the most Vertuous and truly Religious Gentlewoman, Mrs. <hi>Anne Tirwhytt,</hi> Widdow of <hi>Robert Tirwhytt</hi> of <hi>Camringham</hi> in the County of <hi>Lincolne,</hi> Esq; <hi>Decemb.</hi> 8. 1652.</p>
+            <p>By JOHN LEIGH, Master of Arts, and Preacher of Gods Word at <hi>Camringham</hi> near <hi>Lincolne.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Calv. Instit.</hi>
+               </bibl>
+               <p>Terra Exilium, Coelum Patria, Corpus Carcer, Liberatio à cor<g ref="char:EOLhyphen"/>pore, solida libertas, &amp; optima quies.</p>
+               <bibl>
+                  <hi>Psal. 112.6.</hi>
+               </bibl>
+               <p>The righteous shall be in everlasting remembrance.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by J. G. for <hi>Tho: Heath</hi> dwelling in <hi>Russel-street</hi> in <hi>Covent-garden</hi> near the <hi>Piazza.</hi> 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206882:2"/>
+            <pb facs="tcp:206882:2"/>
+            <head>To the five Virgins, and vertuous Si<g ref="char:EOLhyphen"/>sters, M<seg rend="sup">rs.</seg>
+               <hi>Ellen, Douglas, Jane, Mary</hi> and <hi>Ʋrsula Tirwhytt,</hi> Daughters of the late deceased, but ever to be remembred, Mrs <hi>Anne Tirwhytt</hi> of <hi>Camringham,</hi> in the County of <hi>Lincolne.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Had great reason to decline the Printing of this plain Sermon, as judging it (in reference to my self) altogether unworthy of a publique view, and fearing its meanness might rather eclipse, than il<g ref="char:EOLhyphen"/>lustrate the fame of your Mothers happy memory. But being met with an Army of Arguments, and Importunities to this purpose, I resolved to deliver up my selfe to be disposed of according to your pleasure. Into your hands therefore I commend it, as a publique Testimony of my particular ob<g ref="char:EOLhyphen"/>ligations to you, and the worthie Family of your name in this place, desiring it may ever remain as a Monument of your Mothers incomparable Vertues, to encourage and establish you in wayes of Truth and Godlinesse, and like a faithfull Grave-stone, tell Posterity, how much good she did in <hi>Israel</hi> for her present Generation. What should I say more? But with our Saviour, <hi>Go, and do you like<g ref="char:EOLhyphen"/>wise.</hi> Let your Mothers blood run fresh in your Veins, write after her glorious Copie, improve all opportunities for ad<g ref="char:EOLhyphen"/>vancing Gods glory in works of Piety &amp; Charity. Provide
+<pb facs="tcp:206882:3"/> Oyle for your Lamps, that ye may be wise Virgins indeed, to meet your spirituall Bridegroom with unspeakable joy and comfort; And if Providence shall so appoint that you must spend all your dayes in the Mountaines of <hi>Gilead,</hi> and die childlesse, yet be sure to propagate your vertues to po<g ref="char:EOLhyphen"/>sterity, and let your Faith and Obedience, like <hi>Epimanon<g ref="char:EOLhyphen"/>das</hi> his two Daughters,<note n="†" place="margin">Two Virgins at <hi>Luctia</hi> and <hi>Mantinea.</hi> Plut.</note> perpetuate your memories, and ren<g ref="char:EOLhyphen"/>der you famous to succeeding Generations. For the furthe<g ref="char:EOLhyphen"/>rance whereof, you may ever be confident of the heartiest Prayers of</p>
+            <closer>
+               <signed>Your most faithfull and obliged Friend to serve you, JO: LEIGH.</signed>
+               <dateline>Camringham, <date>Jul. <hi>24. 1654.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:206882:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. 14.13.</hi>
+                  </bibl>
+                  <p>And I heard a voice from Heaven, saying unto me, write▪ Blessed are the dead which die in the Lord, from hence<g ref="char:EOLhyphen"/>forth; so saith the Spirit, that they may rest from their labours, and their works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">P</seg>Hilosophers (who saw no farther than the clouds of humane reason) could say, <hi>A wise mans Life should be a continuall meditation of Death;</hi> therefore Christians discovering in the Glasse of Scripture, the lying Vanities of this world, and the glorious Felicity of that which is to come, should often call to remem<g ref="char:EOLhyphen"/>brance their latter end, as <hi>Moses</hi> wishes the People of <hi>Israel,</hi>
+               <note place="margin">Deut. 3 Job 14.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and ever wait for the appointed time of their solemne change.</p>
+            <p>
+               <hi>Joseph of Arimathea,</hi> had his sepulchre in his garden, and <hi>Je<g ref="char:EOLhyphen"/>sus Christ</hi> at the Publicans feast, falls into a serious discourse of his Passion, and Ascension, to teach us that in times and places of greatest Pleasure, we should put our selves upon Theams of mortalitie. Heathens indeed had their burying places without their Cities, but Christians in and about their Churches, to sig<g ref="char:EOLhyphen"/>nifie that in our devotions, we should thinke upon our dissolu<g ref="char:EOLhyphen"/>tions, which was one reason why <hi>Alphonsus</hi> King of <hi>Arragon</hi> used to confesse, that dead men were his best friends; they gave him sound and seasonable counsell, to remember Mortality here, and provide for Eternitie hereafter.</p>
+            <p>To this end, S. <hi>John</hi> in his Book of the <hi>Revelation,</hi> is some<g ref="char:EOLhyphen"/>times advising us to make Preparation for Death; Remem<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:206882:4"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and repent. Blessed are they that watch,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ev. 22.14.</note> and blessed are they that do the Commandements, they shall enter into the City. And sometimes encouraging us against the approaches of Death, by describing the glorious reward of the Saints departed, as in this Text. <hi>Blessed are the dead,</hi> &amp;c.</p>
+            <p>It is therefore well observed by Divines, that the three Books of St. <hi>John</hi> have speciall reference to the three Theologicall vertues, Faith, Hope, and Charity. His Gospel hath reference to Faith; there he makes a description of Christ in his Merits &amp; Mercies, and would engraft us into him by a lively Faith. 2 His Epistles to Charitie; there he makes a description of Love, and would unite our hearts in the bond of Peace and Amitie. And then 3. His Book of Revelation hath reference to Hope; there he makes a description of Heaven, and would encourage us against fear of death, by the consideration of that blessed Sab<g ref="char:EOLhyphen"/>bath of eternall Rest, to be celebrated by all the Saints depar<g ref="char:EOLhyphen"/>ted in the faith of Christ: So saith the Text, <hi>Blessed are the dead which die in the Lord,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">Division Text.</note>In which words there are three things chiefly observable:
+<list>
+                  <item>1. A Proposition, <hi>Blessed are the dead.</hi>
+                  </item>
+                  <item>2. The Exposition, Not all the dead, but <hi>they which die in the Lord.</hi>
+                  </item>
+                  <item>3 The Confirmation, partly by way of Testimonie, <hi>So saith the Spirit,</hi> and partly by way of Reason and Demonstration, <hi>They rest from their Labours, and their Works follow them.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Put the two former together, and they make up this conclusi<g ref="char:EOLhyphen"/>on: That</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ctr.</note>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that die in a state of Grace, live in a state of Glorie. This Observation I take to be the scope and quintessence of the Text, and therefore shall make it the proper subject of my pre<g ref="char:EOLhyphen"/>sent discourse. It will be necessary to handle the point by way of
+<list>
+                  <item>Explication.</item>
+                  <item>Confirmation.</item>
+                  <item>Application.</item>
+               </list>
+            </p>
+            <p>First by way of Explication, to shew what it is to die in the Lord. That implies two things especially. 1. To die in the Lord is to die for the confession of the Faith. 2. To die in the pro<g ref="char:EOLhyphen"/>fession
+<pb n="3" facs="tcp:206882:4"/> of the faith of the Lord Jesus Christ.</p>
+            <p>First, to die for the confession of the faith; so <hi>Beza</hi> reads the words. <hi>Blessed are they who die for the Lord,</hi> who sacrifice their lives for Christs sake, and the Gospells sake, who suffer Martyr<g ref="char:EOLhyphen"/>dome either Passively in act only, as the Innocents at <hi>Bethleem,</hi> or Actively in act and will also, as Saint <hi>Stephen</hi> and the rest of the faithfull witnesses of Christ, in all ages.</p>
+            <p>These indeed are blessed in their Works, and blessed in their Reward: In their Work, because they suffer as Christ, and for Christ; as Christ, according to that of the Apostle, <hi>I rejoice in my sufferings for you;</hi>
+               <note place="margin">Colos. 1.24.</note> and fill up that which is behind of the afflictions of Christ in my fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh, for his bodies sake, which is <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Church. To fill up that which is behind, Why? Are the suffe<g ref="char:EOLhyphen"/>rings of Christ imperfect? Is there not absolute freedom and satisfaction wrought by his Passion?</p>
+            <p>Yes, by one offering he hath perfected for ever those that are sanctified,<note place="margin">
+                  <hi>Vid.</hi> Daven. <hi>Ep.</hi> in locum.</note>
+               <hi>Heb.</hi> 10.14. but yet there are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, fore-sufferings and after-sufferings of Jesus Christ. H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fore-sufferings are those torments he endured in his owne flesh, and his after-sufferings are the manifold afflictions of his Mem<g ref="char:EOLhyphen"/>bers upon Earth. He may be persecuted at <hi>Damascus</hi> after his Ascension, and crucified at <hi>Rome</hi> in his Members.<note place="margin">Act. 9.4. Rev. 11.8.</note> Here is all the difference, His fore-sufferings were for the expiation of Sin, his after-sufferings for the triall of Patience, and the credit of the Gospel.</p>
+            <p>But then, as they suffer as Christ, so for Christ, for thy sake we are killed all the day long:<note place="margin">Rom. 8.36.</note> in the Primitive times Christi<g ref="char:EOLhyphen"/>ans were wont to call Martyrdome by the name of <hi>Corona Martyrii,</hi> the Crown of Martyrdome, because this was the crown, and complement, and perfection of a mans happinesse upon earth, to suffer for Christ, and to Seale his Profession with his dearest blood. Heathens accounted it their greatest honour to die for their Countrie, Christ thought it an honour to die for sinners, the just for the unjust, how much more should sinners esteeme it honourable to die for their Saviour, the unjust for the just, that's the best peice of service we can doe him, and such a high degree of promotion, as the highest Angel in Heaven is not permitted to arrive at.</p>
+            <pb n="4" facs="tcp:206882:5"/>
+            <p>Thus they are blessed in their Work: And 2. they are blessed in their Reward. They that suffer with Christ in the Vale of Teares, shall reigne with Christ in the Kingdome of Glorie: They that have the marks of the Lord Jesus upon their Bodies, shall have the crowne of Life upon their Heads. They that goe to Mount <hi>Calvarie</hi> with Christ, and for Christ, in this world, shall go to Mount <hi>Olivet,</hi> Mount <hi>Sion,</hi> with Christ, to triumph in the world to come. Who are they that are welcom to the spirituall <hi>Canaan,</hi> but they that are forced thorough the red Sea of their own Blood? Who are they that are carried in white Robes,<note place="margin">Rev. 7.9.14.</note> with Palmes in their hands, but they that come out of great Tribulation for the name of the Lord Jesus? If a <hi>Julian</hi> will honour the memorie of those that were slaine in his warres; how much more will Jesus reward all his faithfull witnesses, that have lost their lives, that have been prodigall of their blood in this quarrell, and for his sake? <hi>Right deare in the sight of the Lord, is the death of his Saints. Psal.</hi> 115.16.</p>
+            <p>In the second place, To die in the Lord is to die in the Pro<g ref="char:EOLhyphen"/>fession of the Faith of Christ, in the state of Grace, and eternall Salvation. And this is considerable in three particulars:
+<list>
+                  <item>1. To die in the Favour of God.</item>
+                  <item>2. In the Faith of Christ.</item>
+                  <item>3. In the Peace of a good Conscience.</item>
+               </list>
+            </p>
+            <p>First, To die blessedly, is to die in the favour of God; so <hi>Moses</hi> died: according to the Word of the Lord. The <hi>Caldees</hi> Paraphrase is,<note place="margin">Deut. 3 4.5</note>
+               <hi>Hee died with a kiss from the mouth of God.</hi> God is pleased sometimes to kisse the righteous in their death, to smile upon them on their Death-beds, to embrace them in the armes of his Love, to present them with a bunch of Grapes before they come at <hi>Canaan▪</hi> giving them some speciall tokens of his Favour, as a Pawn and Pledge of that Glorie which is to be revealed in Heaven. And surely they die most comfortably who have the strongest assurance of the love of God in their hearts: A man may leave <hi>Egypt</hi> with joy, when he hath a Land of Promise before him; he may well part with an earthly Pos<g ref="char:EOLhyphen"/>session, when he hath Writings sealed for an Immortall Inheri<g ref="char:EOLhyphen"/>tance; he may goe to his owne house of D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath, to his long home in the Grave with unspeakable comfort, when he shall have such
+<pb n="5" facs="tcp:206882:5"/> a message from Heaven as that in the Gospel, <hi>Sonne,</hi>
+               <note place="margin">Math. 9, 2.</note>
+               <hi>be of good cheere, thy sins are forgiven thee,</hi> thy warfare is accomplished, and <hi>thou shalt receive double at the hand of the Lord,</hi> Esay 40.2.</p>
+            <p n="2">2. To <hi>die in the Lord</hi> is to die in the faith of Christ, and that is first to confesse the name of Christ, because there is no <hi>Salvation but in his name;</hi> Act 4.12. all sufficiency in his name, insuffici<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>cy in any other name. No hope for those that are out of the Pale of the Church.</p>
+            <p n="2">2. It is to professe the truth of Christ, because a man cannot be saved in any Religion: there is but <hi>one Truth, one Faith, one Baptisme, one Mediator.</hi>
+               <note place="margin">Ephes. 4.5.</note>
+               <hi>Varro</hi> may reckon up 30000 Gods a<g ref="char:EOLhyphen"/>mong the Gentiles, where there is one onely; and men may forge and phansie 30000 Truths, whereas they shall finde but one in the conclusion.</p>
+            <p n="3">3. It is to apply the merit of Christ, because Christ in the ge<g ref="char:EOLhyphen"/>nerall notion will never bring a man to heaven. It is not suffici<g ref="char:EOLhyphen"/>ent to be a Christian in name, or a Protestant in Profession, ex<g ref="char:EOLhyphen"/>cept a man be a reall and living member of Christ, by a faith of application as well as apprehension. <hi>They die in the Lord</hi> who are united to Christ, and engrafted into his body, by a lively faith in his blood. There are many that leave the doctrine of Sal<g ref="char:EOLhyphen"/>vation by Christ hovering in the air, they take up in a historicall commemoration of his Passion, in a knowledge swimming in the b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain, whereas it must be a knowledge sinking and soking into the heart, a knowledge accompanied with application, which will afford a sinner sound and substantiall comfort. The Angells ser<g ref="char:EOLhyphen"/>mon was driven home by way of application, <hi>unto you is borne a Saviour.</hi> It is not the report of a Saviour, but the embrace,<note place="margin">Luke 2.11.</note> and application of a Saviour, that renders a man Truly happy. <hi>M. Luther</hi> said very well; <hi>Dulce nomen salvatoris &amp;c. Sweet is the name of a Saviour,</hi> oh but the sweetnesse lies in the Pronoun, (says he) that Christ is <hi>my</hi> Saviour, and <hi>thy</hi> Saviour, theres the com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>And indeed, it is small comfort to know there is redemption wrought, if I hav<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no right, and title, and inter<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st in that re<g ref="char:EOLhyphen"/>demption. To know there are holes in Christs side, if my fingers be not in the holes. To know there is a rock of salvation if I get not into the clefts of the rock, and lodge in the secret places of
+<pb n="6" facs="tcp:206882:6"/> the staires, in the wounds of Christ, in the heart of Christ: As Queen <hi>Mary</hi> said, <hi>if she was opened, one might see the Towne of</hi> Callis <hi>lie at her heart.</hi> As Christ lies at the heart of a Beleever by love, so a Beleever lies at the heart of Christ by faith; so that it is not <hi>Christ dying at Jerusalem,</hi> but <hi>Christ living in the heart,</hi> that must save us: Not <hi>Christ hanging on the Crosse,</hi> but <hi>Christ ta<g ref="char:EOLhyphen"/>ken downe;</hi> we must with <hi>Joseph</hi> of <hi>Arimathea</hi> take him downe from the Crosse, wrap him in clean linnen, lay him in a new Se<g ref="char:EOLhyphen"/>pulchre, a holy, heavenly, penitent, believing heart, then he is ours indeed.</p>
+            <p>
+               <hi>Thrasyllus</hi> an <hi>Athenian</hi> being distracted in his brain, had a strong conceit, that all the Ships and their lading in the Port of <hi>Pyrea</hi> were his owne: It is not Fancy, but Faith which assures a Christian all the Merchandise of Heaven, all the ben<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fits of Christ, all the mercies promised are his owne, and therefore he dare proclaime his unquestionable interest in Christ, and lay claime to Salvation,<note place="margin">1 Tim. 1.15.</note> as Saint <hi>Paul; Jesus Christ came to save sin<g ref="char:EOLhyphen"/>ners, of whom I am chief:</hi> This is to die blessedly in the Lord, that is, in the Faith of Christ, a faith of particular application. Thus the Primitive Christians died blessedly, they died in Faith, not in a generall Belief of the Gospell,<note place="margin">Heb. 11.13. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but in a full Assurance of the Love of God in his Son Christ, they embraced, or kissed the Promises, and laid hold on the purchased Possession, Eternall life by the hand of Faith.</p>
+            <p>Thus old <hi>Simeon</hi> died Blessedly, because he died Believingly, with Heaven in his Eye,<note place="margin">Luke 2.29, 30.</note> and Christ in his Armes, <hi>Lord let thy Servant depart in peace.</hi> That man is most sure to die in peace, whose eyes have seen the salvation of God, who hath the spirit of Christ in his heart, as <hi>Simeon</hi> had the body of Christ in his armes, who hath made his Calling and Election sure, and knowes for certaine that Christ hath shed his Blood for his Redemption in particular, according to that rare and ravishing expression, <hi>Gal.</hi> 2.20. <hi>Christ loved me, and gave himself for me,</hi> &amp;c.</p>
+            <p n="3">3. And lastly, To die in the Lord, is to die in the peace of a good Conscience. A conscientious man dies blessedly, howsoever, or whensoever, or wheresoever he dies; therefore when St. <hi>Paul</hi> had received the summons of Death, he fled to the Castle of his good Conscience;<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 4.6, 7.</note> there he sate like <hi>Noah</hi> in his Cabbin, in an
+<pb n="7" facs="tcp:206882:6"/> Ark pitch'd within and without. I am ready to be offered, and he time of my departure is at hand; And here is my comfort,<note place="margin">Verse 8.</note>
+               <hi>I shall go to my Grave with a Conscience as clean as my Winding-sheet:</hi> it followes, <hi>I have fought a good Fight, finished my Course, kept <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Faith, Henceforth is laid up for me a Crowne of Righteous<g ref="char:EOLhyphen"/>nesse.</hi>
+            </p>
+            <p>Thus <hi>Samuel</hi> died in the Lord, when his heart bare witnesse of his integrity, insomuch, as he makes a glorious Manifesto, and Challenge to all the World. My departure is at hand, and who can accuse me of Deceit, or Briberie, or Oppression? <hi>Whose Ox have I taken? Or whose Asse,</hi> &amp;c. Thus they that live the Life of the Righteous, shall die the Death of the Righteous: They shall be welcome to Gods Hive in Heaven, who come la<g ref="char:EOLhyphen"/>den with works of Piety and Charity from the field of the World. If the wise Virgins keep Oyle in their Lamps, and Oyl in their Vessels, Faith, and a good Conscience in the course of their lives, they shall attend the Bridegroom Jesus Christ, to sing the Marriage Song in Heaven, the Song of <hi>Moses,</hi> and the Song the Lamb.</p>
+            <p>To this purpose, I may very fitly apply that passage of <hi>Jehu</hi> to <hi>Jehonadab, Is thy heart right as mine is? if it be,</hi>
+               <note place="margin">2 King. 10.15</note>
+               <hi>give me thy hand and come into my Chariot.</hi> Thus may God speak to you in the language of <hi>Jehu,</hi> and say, <hi>Is thy heart right?</hi> Are your hearts believing hearts, closing with, and clasping about J<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sus Christ? Are they soft and penitent hearts, steeped in teares of compuncti<g ref="char:EOLhyphen"/>on? Are they holy, humble, honest hearts, hating Sinne, and lo<g ref="char:EOLhyphen"/>ving Righteousnesse? Now, if you can make <hi>Jehonadabs</hi> answer, and say, they are right (Lord) in some measure, <hi>we believe, Lord help our Ʋnbelief;</hi> we are sorry for Sinne, <hi>Lord increase our Sor<g ref="char:EOLhyphen"/>row;</hi> We trust he have a good conscience, at least we desire to have one; then <hi>give me thy hand</hi> (sayes God) <hi>and come into my Chariot, He grace thee with my Favour in this World, and crowne thee with my Presence, my Glory, in the World to come.</hi>
+            </p>
+            <p>So much by way of Explication. I proceed to the proof and confirmation of the Point, as it was laid down in the Text. First by way of Testimony; <hi>I heard a voice from Heaven, saying, write;</hi> and so saith the Spirit, <hi>that they rest,</hi> &amp;c. Here (with <hi>Jonathan</hi>) we may taste of the Hony as it drops by the way, and observe,
+<pb n="8" facs="tcp:206882:7"/> That it is the duty of all men to believe in heart, and to preserve in memory whatsoever is delivered from Heaven.</p>
+            <p>To believe in heart, because the Voice from Heaven confirmes it; in every Chapter we heare read, there is a Voice from Hea<g ref="char:EOLhyphen"/>ven; in every Sermon we heare preacht, which is consonant to the Doctrine of Scripture, there is a Voice from Heaven. Prea<g ref="char:EOLhyphen"/>ching is not the Word and Work of Man, but the blessed Ordi<g ref="char:EOLhyphen"/>nance of J<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sus Christ, that noble Instrument which he hath chiefly appointed,<note place="margin">1 Cor. 1.21.</note> and sanctified for the salvation of Sinners. It is God the Father that invites you to Repentance, it is Christ that stands at your doore and knocks, and wooes for Entertain<g ref="char:EOLhyphen"/>ment; it is the holy Spirit that strives with you, as in the daies of <hi>Noah;</hi>
+               <note place="margin">Gen. 6.3.</note> take heed you resist not the strivings of the Spirit, lest the Lord deliver you up to the rage of Satan, and to the rebellion of your own heart; take heed you shut not your eyes when Christ is in your company, that you do not stop your cares when the Voyce calls from Heaven, when the Spirit saith Write; make not the Ministers of the Gospel so unhappy, as to rise up in Judgement against you; do not give them occasion to com<g ref="char:EOLhyphen"/>plaine, as the Prophet of old, <hi>Who hath believed our Report?</hi> &amp;c. We preach Repentance,<note place="margin">Esay 53.1.</note> and amendment of Life; we preach Christ, and him crucified; we preach comfort to the Penitent, and terror to the Obstinate; But who believes our report? We have piped to you, and you have not danced; we have mourned, and ye have not wept; we would allure you with the sweets of the Gospel, or else terrifie you with the threats of the Law; but yet we may complaine, Who hath beleived our Report? It is our Report, but it is Gods Message; we are Ambassadours of Christ,<note place="margin">2 Cor. 5.20.</note> we pray you in his stead to be reconciled, to seale the League, and compose the great D fference; we are Spokesmen for Christ (to speak it with reverence) we beseech you in His name, and for His sake, to accept of the match, to untwist the contract with Sinne and Satan, and to enter into a matrimoniall Covenant with Jesus Christ; and if you believe not us, believe him that sent us; we speak not in our owne name, the Voice from Heaven saith, Write; and write this as an unquestionable Truth, That they are blessed which die in the Lord.</p>
+            <p>Secondly, Learn from hence, to keep in memory what is deli<g ref="char:EOLhyphen"/>vered
+<pb n="9" facs="tcp:206882:7"/> from Heaven, because the Spirit commands it; the Spirit saith, Write. The sinnes of <hi>Judah</hi> are written with a pen of Iron, and the point of a Diamond. As our Teares are bottled, and our Prayers recorded in Heaven, so our Sinnes are registred there, and put in a book of Remembrance, till they are blotted out, and washed away in the blood of Jesus Christ. The Commande<g ref="char:EOLhyphen"/>ments shall be written in tables of Stone, that we may write them in the tables of our Hearts.<note place="margin">Rev. 2.8.12.1</note> Christ saith to the Angels of the Churches, <hi>write;</hi> to <hi>Smyrna, write;</hi> and to <hi>Pergamus, write;</hi> and to <hi>Thyatyra, write still.</hi> According to this <hi>Voice from Heaven</hi> in the Text, <hi>write.</hi>
+            </p>
+            <p>Writing is one of the chiefest instruments of humane Com<g ref="char:EOLhyphen"/>munion, and the safest way to convey the blessings of God to posterity. <hi>Vox audita perit, litera scripta manet.</hi> The word in the Eare vanishes, but writ in the Book, remains by us to do us good hereafter.</p>
+            <p>It is lawfull and commendable then, both for Preacher and Hearer, to write what is delivered: For the Preachers, the Spi<g ref="char:EOLhyphen"/>rit saith to the Angels of the Churches, <hi>write,</hi> that is,<note place="margin">
+                  <hi>Fasciculum luminum.</hi> bundle of tings.</note> the Mini<g ref="char:EOLhyphen"/>sters of the Gospel they are terrestiall Angels, celestiall Men: St. <hi>Paul</hi> himselfe made use of Notes, and therefore sent to <hi>Troas</hi> for his Patchments. 2 <hi>Tim.</hi> 4.13.</p>
+            <p>Thus the Scripture mentions a Writing, which <hi>Elijah</hi> the Pro<g ref="char:EOLhyphen"/>phet sent to <hi>Jehoram,</hi> 2 <hi>Chron.</hi> 21.12, 13. But how by <hi>Elijah,</hi> when he was translated before,<note place="margin">2 Kings 3.</note> and <hi>Elisha</hi> prophesied in his stead before this time in the daies of <hi>Jehosaphat?</hi> Some of the Jewish Rabbins have a groundlesse conceit, that <hi>Elijah</hi> sent the Writing from Heaven; more probable it is, that he left the Prophesie behinde him: but yet more probable,<note place="margin">2 Kings 2</note> that by <hi>Elijah</hi> is here meant <hi>Elisha,</hi> who might be called <hi>Elijah,</hi> because he had received a double portion of his spirit according to his request.</p>
+            <p>He sent the writing to <hi>Jehoram,</hi> some think out of feare, be<g ref="char:EOLhyphen"/>cause he durst not reprove him to his face. Others, to declare the certainty of infl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cting the judgement denounced. Thus saith the Lord, <hi>Write this man childlesse;</hi> that is,<note place="margin">Jerem. 22.</note> he shall surely be childe<g ref="char:EOLhyphen"/>lesse. <hi>Haman</hi> would have the bloody Decree written, and <hi>Bel<g ref="char:EOLhyphen"/>shazzar</hi>'s Doom is written upon the wall. As God will certain<g ref="char:EOLhyphen"/>ly execute the Judgement written,<note place="margin">Psal: 149.</note> so he will certainly accomplish
+<pb n="10" facs="tcp:206882:8"/> the Promise written: and therefore, saith the Spirit, <hi>write,</hi> as a note of certainty and perpetuity, that <hi>they are bl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssed who die in the Lord.</hi>
+            </p>
+            <p>And then for the Hearers of the Word, that they may not be forge<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>full hearers, the spirit saith, <hi>write.</hi> We finde a company of religious Courtiers upon this imployment, and it is there recorded for their everlasting honour,<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rov 25.1.</note> that they (the servants of <hi>Hezekiah</hi>) copied out the Proverbs of <hi>Solomon:</hi> It is no lesse commendable in Christians, to copie out the glorious Oracles of the spirituall <hi>Solomon,</hi> Christ Jesus, as they are faithfully delivered in the Mini<g ref="char:EOLhyphen"/>stry of the Word and Gospell; the Spirit saith, <hi>write. In codice, in corde,</hi> in the Book, however in the Tallie of the heart, set it down, as an unquestionable truth, that the Saints departed are in a blessed condition.</p>
+            <p>So much by way of Testimony. Secondly this truth is confir<g ref="char:EOLhyphen"/>med by a double reason, <hi>They rest from their Labours, and their Works follow them.</hi> Their blessednesse consists in two things. 1. In a cessation from all sinne and misery, <hi>They rest,</hi> &amp;c. 2. In a posses<g ref="char:EOLhyphen"/>sion of all glory and felicity. <hi>Their Works follow them.</hi>
+            </p>
+            <p>First, <hi>They rest,</hi> &amp;c. The Kingdome of Heaven, is often in Scri<g ref="char:EOLhyphen"/>pture termed a Rest,<note place="margin">b. 4.1.9.</note> a place of Rest, the Rest of God, the Rest of the godly; and therefore was it typified at first by Paradise, and afterward by <hi>Canaan, a land of Best and redemption from op<g ref="char:EOLhyphen"/>pression, and Persecution.</hi> The World indeed is a troubled Sea, but Heaven is the Haven of Rest; the World is an <hi>Egypt,</hi> a place of Burdens, and Bondage, but Heaven is a <hi>Canaan,</hi> that's resembled by the bosome of <hi>Abraham,</hi> a place of sweet refreshment, and <hi>soul satisfying Rest.</hi>
+            </p>
+            <p>Here indeed the servants of God have rest <hi>in sps,</hi> but there <hi>in re.</hi> Here in expectation, there in full fruition, <hi>rest from all Labours;</hi> and that appeare in these four particulars, The Saints departed rest from the labou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of their
+<list>
+                  <item>
+                     <hi>Corruptions.</hi>
+                  </item>
+                  <item>
+                     <hi>Afflictions.</hi>
+                  </item>
+                  <item>
+                     <hi>Temptations.</hi>
+                  </item>
+                  <item>
+                     <hi>Part<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cular Vocations.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>F rst, From the Labour of their Corruptions, their own sinnes,
+<pb n="11" facs="tcp:206882:8"/> sinnes, and the sinnes of the World. 1. Their owne sinnes; they are a Load and Labour to them; <hi>David</hi> felt that weight upon the shoulders of his tender conscience, and therefore complaines grievously, <hi>Mine iniquities are gone over my head,</hi>
+               <note place="margin">Psal. 38.4. Psal: 89.19.</note>
+               <hi>and are become a burden too heavy for me to beare▪</hi> So heavy is this burden, as the Scripture tells us, <hi>Help was laid upon one that was mighty:</hi> God sent his owne Sonne to beare the burden of our Transgressions, and this caused him to sweat, and groan, and bleed, and cry out to the amazement of Men and Angels, <hi>My God, my God, Why hast thou forsaken me?</hi>
+            </p>
+            <p>So great is labour of sinne, that S. <hi>Paul</hi> cries out (as an undone man) for freedome from it. <hi>Oh wretched man that I am,</hi>
+               <note place="margin">Rom. 7.24.</note>
+               <hi>Who shall deliver me?</hi> &amp;c When shall I have freedome from this wofull thraldome? Not on this side of the Grave.</p>
+            <p>Here the Saints are cloathed with infirmities, and infirmities in those things wherein they are most eminent.</p>
+            <p>
+               <hi>Moses</hi> is the meekest man in the earth, and yet there was a scar in his curious complexion; He once spake unadvisedly with his lipps. <hi>Job</hi> a mirrour of Patience, yet put him into the balance of the Sanctuary, and he wants more than the graines of allowance; he once cursed the day of his Birth. The glory of <hi>Davids</hi> confi<g ref="char:EOLhyphen"/>dence is eclipsed with a distrustfull feare of man, <hi>I shall one day perish by the hand of</hi> Saul.<note place="margin">1 Sam. 37.1.</note> Thus in this world they are party-coloured, like <hi>Jacobs</hi> Lambs; there is some darknesse in their clearest light; some Drosse in their purest Gold, some Blemish in the beauty of all their Graces. When shall they be deliver'd then? The Apostle tells us in the world to come,<note place="margin">Rom. 6.7.</note>
+               <hi>He that is dead is freed from sin,</hi> is eased of that burden: When an old House falls flat to the ground, then will the Vermine be gone: so when the Taberna<g ref="char:EOLhyphen"/>cles of Clay, the old Houses of our Bodies, fall to the ground by Death, then will the Vermine of our corruptions be dispersed and destroyed: Those earthen Vessels that were legally pollu<g ref="char:EOLhyphen"/>ted, could not be clensed, but by breaking all in pieces: so the best of Gods servants, whom the Scripture calls earthen Vessels, they cannot be sufficiently purged from their sinfull pollutions, till they be broken all in pieces by death. The life to come is the time of their full R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>demption, and compleat Sanctification, then shall all Canaanites be destroyed, all the Egyptians shall lie dead
+<pb n="12" facs="tcp:206882:9"/> behinde them upon the Sea-shore; then they may say of all their sinnes, as <hi>Moses</hi> did of the Egyptians, <hi>These Egyptians which you have seen to day, you shall never see them again; they are all drowned in the Red sea of Christs Blood. Adam</hi> was happy in Paradise, in a <hi>posse non peccare,</hi> a possibility not to sin: how blessed are the Saints triumphant in the celestiall Paradise, in a <hi>non posse peccare,</hi> being free from all possibility of sinning, and falling away from that incomparable happinesse, which the disobedient Angels lost?</p>
+            <p>Againe they rest from the labour of corruption, that is from the sinnes of the World, they are a grievous burden to the chil<g ref="char:EOLhyphen"/>dren of God. So they were to zealous <hi>Elijah,</hi> the sinnes of the times made him weary of his life; the Pride, and Whoredome, and Idolatry of <hi>Jesabell;</hi> the great neglect of the worship, and contempt of the Prophets of the Lord, went to his heart,<note place="margin">1 King. 19.4.</note> and caused him to wish earnestly for a Rest from that Vexation. <hi>It is enough for me, let me die, for I am not bet<g ref="char:EOLhyphen"/>ter than my Fathers.</hi> So they were to righteous <hi>Lot,</hi> the sinnes of <hi>Sodome</hi> were as so many Swords at his Heart,<note place="margin">2 Pet. 2.7. Verse 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mr. <hi>Leigh</hi>'s <hi>Crit. Sac.</hi> Psal. 119.158.</note> as cruell Racks to his tender conscience; So much the word in the Originall imports, <hi>The soule of just Lot was vexed (or racked)</hi> with <hi>the filthy conversation of the Sodomites.</hi> So they were to holy <hi>David,</hi> I <hi>be<g ref="char:EOLhyphen"/>held the transgressors and was grieved, and mine eyes gush out with water because men keep not thy Law.</hi> Here <hi>David</hi> is drown'd in a flood of Tears, because the World was drown'd in a Sea of sins.</p>
+            <p>Now here is the blessednesse of the righteous departed; their conversation is not with Idolatrous <hi>Jesabells,</hi> and unclean <hi>Sodo<g ref="char:EOLhyphen"/>mites</hi> but with glorious <hi>Angels,</hi> and glorified <hi>Saints;</hi> they live in a Land where no venomous creature can live; in an Ark, where no unclean Beast can enter; in <hi>Jerusalem</hi> above, which is free, wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the presence of all good, &amp; the absence of all evill is, and ever will be, where is nothing but pure Joy, and perfect Peace, and perpe<g ref="char:EOLhyphen"/>tuall Singing of P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aise &amp; glory to him that sits upon the Throne.</p>
+            <p>Secondly, they that die in the Lord, are blessed, for they rest from the labour of Affliction. I need not tell you the servants of God on earth are subject to Afflictions: Is not the Church in generall compared to the Ark, floating upon the waves of distra<g ref="char:EOLhyphen"/>ction, and persecution? Is it not the little City besi ged? The Bush on a flame? The Lillie among thorns? The little Flock in
+<pb n="13" facs="tcp:206882:9"/> the midst of Wolves? The Woman weeping in the Wildernesse? Need I instance in particular members of the Church, when the Apostle assures us, that all that will live godly must suffer Tri<g ref="char:EOLhyphen"/>bulation, suffer Tribulation in one way or other,<note place="margin">2 Tim. 3.12. Acts 14.22.</note> at one time or other? No Crosse, no Christ; no Crown of Thorns, no Crown of Glory; no Tribulation here, no Glor<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fication hereafter. Hence it is that the Psalmist concludes from his owne observation &amp; expe<g ref="char:EOLhyphen"/>rience, <hi>Many are the troubles of the Righteous, but the Lord delivers them out of all.</hi> D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>livers them, When? <hi>Aut hic, aut hinc,</hi>
+               <note place="margin">Psal. 34, 19.</note> either in this life, by taking the Troubles from them; or, however, in the end of this life, by taking them from their troubles by death. <hi>Joseph</hi> gave his Brethren Provision for the way, but the full Sacks were kept in store, till they came home unto their Fathers house:<note place="margin">Gen. 42.</note> So the Lord will give h s people some Provision, some Refresh<g ref="char:EOLhyphen"/>ment in the way, a taste of his Mercy and Goodnesse here, but the full Sacks of Rest and Comfort are kept in store until they come to their heavenly Kingdome.</p>
+            <p>Or what if the righteous, like <hi>Noah</hi>'s Dove, can find no ground to set the sole of their foot on, because the waters of afflictions prevaile so much in the world? Yet in the end, Christ Jesus, the spirituall <hi>Noah,</hi> will put forth his hand from the Ark, and take them in, to settle them in everlasting Rest. Indeed, many times it goes very hard with the children of God in this world; <hi>Israel</hi> may make Bricks, when the <hi>Egyptians</hi> lie upon their Beds; Christ may be crucified, when <hi>Barabbas</hi> is delivered; <hi>John Baptist</hi>'s head may dance on the Scaffold, when the daughter of <hi>Herodias</hi> is dancing in the Palace; <hi>Lazarus</hi> may be glad of C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ums, when the R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch man fares deliciously. Well but this world will not last alwaies: there is a day of Rest and Retribution for the people of God: Death will come, and that to them is the end of all m<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and the beginning of all felicity. Death is the funerall of all their sorrowes, and the life and resurrection of all thei<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joyes. Then comes their Triumph after their Warfare and Victory, their Liberty <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter Bondage, their Kingdome after Banishment, their Inheritance after Poverty, their Rest after all their Labours: for then <hi>the Lord wipes away all teares from their eyes,</hi> there is no more <hi>crying</hi> nor <hi>dying,</hi> no more <hi>sobbing</hi> nor <hi>sorrowing,</hi>
+               <note place="margin">Rev. 21.<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> for <hi>the first things are past:</hi> there is no <hi>Laban</hi> to oppresse, no <hi>Potiphar</hi> to
+<pb n="14" facs="tcp:206882:10"/> to imprison, no <hi>Herod</hi> to persecute, there all Mourning Sonnets are turned to Marriage Songs, all the Vinegar of temporall Crosses, to wine of eternal Consolation: so much the Heathen man knowledged, <hi>ante obitum nemo felix,</hi> a man may be accounted prosperous and fortunate in this world, but he cannot be truly happy till his end, according to the voice in the Text, <hi>Blessed are the dead,</hi> &amp;c.</p>
+            <p n="3">3. They that <hi>die in the Lord</hi> are <hi>blessed,</hi> because they rest from the labour of temptation. While we abide in the Flesh we are sub<g ref="char:EOLunhyphen"/>ject to manifold Temptations, from Satan, the World the Flesh; Temptations on the right hand in the Pleasures, and Profits, and Preferments of the World; Temptations on the left hand in the Crosses and Calamities of the World. Here <hi>Joseph</hi> hath an en<g ref="char:EOLhyphen"/>ticing Mistriss, and <hi>Sampson</hi> a cunning <hi>Dalila,</hi> and <hi>David</hi> a faire <hi>Bathsheba.</hi> But what speak I of these? Did not <hi>Adam</hi> finde a Serpent in Paradise? And our Saviour a Tempter in the Wilder<g ref="char:EOLhyphen"/>nesse? And <hi>if this was done to the Green Tree, What shall be done to the Drie?</hi> How shall Christians avoid temptations, or over<g ref="char:EOLhyphen"/>come temptations, when Satan is so politique and powerfull, watching all opportunities, and taking all advantages, and suiting his temptations according to their severall dispositions? He takes measure of the frame of our Spirits, and shapes his temptations accordingly: he had a wedge of Gold for covetous <hi>Achan,</hi> a convenient Vineyard for greedy <hi>Ahab,</hi> a beautifull <hi>Tamar</hi> for lascivious <hi>Ammon.</hi> Well may we pronounce the Saints departed in a blessed and glorious condition, when they are rescued from the paw of the roaring Lyon, when <hi>Lucifer,</hi> is cast downe, never to be entertained againe. No (beloved) there is no Serpent in the Spirituall Paradise, no <hi>Bathsheba</hi> in the New Jerusalem, no Tempter in Heaven: there is Freedome from all Feares and Di<g ref="char:EOLhyphen"/>stractions, from all Disturbances and Molestations, from all Sin, and from all Enticements and Provocations to Sinne: <hi>Blessed are they that die in the Lord,</hi> they rest from this labour of tem<g ref="char:EOLhyphen"/>ptations.</p>
+            <p n="4">4 And lastly, They rest from the labour of their particular Cal<g ref="char:EOLhyphen"/>ling and Vocation, which is toilsome and troublesome, ever since God past this doom upon man for his offence in Paradise,<note place="margin">Gen. 3.19.</note>
+               <hi>In the sweat of thy Browes shalt thou eat Bread.</hi> Indeed, Man in the
+<pb n="15" facs="tcp:206882:10"/> state of innocency, was not excused from labour: Paradise, which was <hi>Adams</hi> Store-house, was his Work-house too; God put him into the Garden, not to sleep in those sweet Bowers, not to spend his time idly in those pleasant Walks,<note place="margin">Gen 2.15. <hi>Vulg. lat.</hi>
+               </note> but to <hi>dresse</hi> and <hi>keep</hi> it <hi>(ut operaretur)</hi> that he might work and labour in it, onely here is the difference, Labour then was a Recreation to the mind, and now it is an Affliction to the body.</p>
+            <p>Now the Husbandman rises early, and rests late; now the La<g ref="char:EOLhyphen"/>bourer beares the burden of the day, the Marriner is exposed to the stormy wind and tempest, the Souldier endures hardship, the Minister works in the Vine-yard, and watches the Flock day and night; <hi>Man goes out out to his labour to the Evening,</hi>
+               <note place="margin">Psal. 104.23.</note> every one is imployed in the work of his calling.</p>
+            <p>But then after Death, comes the Rest from this Labour, then the Husbandman g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts his Harvest, the Labourer his Penny, the Marriner his Haven▪ the Souldier his Pay, and the Minister his Crowne, h s Reward in Heaven. This is the work of God in the ordinary course of his Providence, to crown his Servants labours with a comfortable issue. <hi>Jacob</hi> may endure the heat of the day, and the frost of the night, at last he comes to his Rest, to receive his Wages and enjoy his beautifull <hi>Rachel. Israel</hi> may have many a weary step in the Wildernesse, at last they come to <hi>Canaan,</hi> a Land of Rest: in a word, Gods people may endure the six daies work of toyle and trouble in this life, but at last they shall cele<g ref="char:EOLhyphen"/>brate a perp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuall Sabbath of glory in the world to come. So the T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt, <hi>Blessed are the dead,</hi> &amp;c.</p>
+            <p>The second reason is laid downe in the last words of the Text, <hi>Their works follow them,</hi> therefore they are blessed: Their happi<g ref="char:EOLhyphen"/>nesse is not onely privative, consisting in a freedome from sinne and misery, but positive also, in a possession of all peace and glo<g ref="char:EOLhyphen"/>ry, in a consummation of Grace, in a perf<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct fruition of God, and a bl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d communion w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the Lord Jesus Christ.</p>
+            <p>
+               <hi>Their works follow them,</hi> not their works in kinde,<note place="margin">Opera eorum merces operu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> quae <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x gratia da<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, <hi>Gerh.</hi>
+               </note> but their works in issue and effect, the fruits and reward of their works, the blessings of God which lie in the promises to works of piety and charity: These follow them to Heaven: Indeed Faith leads the way, that must be our Hatbinger to take up our lodging in the New Jerusalem, that like the Starre in the East, leades us to
+<pb n="14" facs="tcp:206882:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:206882:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:206882:12"/>
+               <hi>Bethleem,</hi> where Christ is, but then good works follow after, they are our attendants to the Court and Kingdome of Glo<g ref="char:EOLhyphen"/>ry.</p>
+            <p>Their works follow them to be recorded in Heaven, and rewar<g ref="char:EOLhyphen"/>ded in Heaven.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sth 6.2.</note>Recorded, as the good service which <hi>Mordecai</hi> did for the King and Kingdome was writ in the Chronicles, and called to remembrance in an acceptable time: as the coats and garments which <hi>Dorcas</hi> made,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cts 9.39.</note> were brought forth after her death; so shall the good huswifery of the Saints, the good service they have done for Christ and his Church, be recorded in the Chronicles of Heaven for their everlasting honour; good works are so well pleasing to God, as he will never forget them; Christ will make mention of them at the Day of Judgement.<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ath. 25.35.</note>
+               <hi>I was hungry, and ye fed me; thirsty, and ye gave me drink,</hi> &amp;c.</p>
+            <p>You shall finde there the servants of God had kept no record of their acts of charity, they had clean forgotten what they had done for Christ, and for his Members.</p>
+            <p>
+               <note place="margin">Verse 37.</note>They answered, <hi>When saw we thee an hungred or thirsty?</hi> &amp;c. Well, saies Christ, if ye have forgotten your good works, I have not,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r. <hi>Caryll</hi> upon <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>b</hi> c 9 v. 15.</note> I have kept a perfect Register: It is our duty to remember to do good, but let God alone to remember the good we have done, <hi>He is not unrighteous to forget our labour of love.</hi> Hebr. 6.10.</p>
+            <p>Then 2. Their works follow them to be rewarded in Heaven, and with Heaven, yet not for the merit of the works, for if God should mark what is done amisse in our sacrifices, and best per<g ref="char:EOLhyphen"/>formances, they would testifie against us. How then? Through the mercy of God he crowns his owne graces,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nunerat mu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a sua, non <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ita nostra. <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>m. 6. ult.</hi>
+               </note> not our merits. <hi>The wages of Sinne is Death;</hi> but not the wages of Righteous<g ref="char:EOLhyphen"/>nesse is Eternall life, <hi>But the</hi> Free-grace, <hi>gift of God is Eternall life.</hi>
+            </p>
+            <p>Thus far good works are necessary to Salvation, as the way to the Kingdome, not as the cause of raigning: We cannot be sa<g ref="char:EOLhyphen"/>ved without good works, because our Faith is dead, our Calling is fruitlesse without holinesse of life; yet we cannot be saved by good works as a meritorious cause.</p>
+            <p n="1">1. Because they are not our owne.</p>
+            <p n="2">2. They are not absolutely good.</p>
+            <p n="3">
+               <pb n="17" facs="tcp:206882:12"/>3. They are due to God, and there is no proportion betweene them and the Reward in Heaven. We are justified by Faith in the Blood of Christ, but good works declare our just fication, and give infallible testimony of the goodnesse and excellency of our faith.</p>
+            <p>
+               <hi>Judeth</hi> alone cut off <hi>Holeferne</hi>'s head; she went in first,<note place="margin">Judeth 13.3, 4.</note> and commanded all her attendants to stand without: but when the Deed was done, the whole company came in, and stood about her. So Faith alone (with <hi>Judeth</hi>) breaks the Ice, enters first, and cuts off <hi>Holofernes</hi> his head, grapples with, and conquers Sa<g ref="char:EOLhyphen"/>tan, apprehends and applies the mercy of God, and the merit of Christ, <hi>By Grace ye are saved.</hi>
+               <note place="margin">Ephes. 2.8.</note> But the good works come in as Faith's attendants, to declare that the deed is done, that the Ser<g ref="char:EOLhyphen"/>pents head is broken, Satan vanqu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shed, and Heaven gate set wide open to entertaine Believers. All which is answerable to this passage in the Text. <hi>They that die in the Lord are blessed▪ for their works follow them.</hi> Faith went before, and these follow af<g ref="char:EOLhyphen"/>ter to be recorded and rewarded in Heaven.</p>
+            <p>So much by way of Explication and Confirmation: it remains now, that we come to the Use and Application. From this hea<g ref="char:EOLhyphen"/>venly Fountain we may derive several Streams of divine instructi<g ref="char:EOLhyphen"/>on. As,</p>
+            <p>F<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rst, If the Saints departed, rest, &amp;c. from hence we may conclude, there is no place of paine or punishment for the righte<g ref="char:EOLhyphen"/>ous in the world to come. This Doctrine quenches the fire of Purgatory: there is no room for that heathenish opinion in this Text.</p>
+            <p>The good Thief went immediately from the Crosse to Paradise, <hi>Lazarus</hi> immediately from the Rich mans Gate to <hi>Abrahams</hi> Bosome: <hi>Blessed are the dead,</hi> they rest; they that <hi>die in the Lord</hi> have no more to suffer, they have nothing to doe but to receive their R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ward.</p>
+            <p>A double Purgatory we have upon Earth,<note place="margin">Zach. 13.1. 1 John 1.7.</note> One in the Blood of Christ, which is the Fountaine opened to wash away the guilt of Sinne: Another in Affl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, which is a meanes (through Ver<g ref="char:EOLhyphen"/>tue in that Blood) to cleanse us from the pollution of Sinne: but,<note place="margin">Dan. 11.35.</note> for a Purgatory after death, a third place from Heaven, and Hell, is that which neither <hi>Moses</hi> nor the Prophets, neither Christ,
+<pb n="18" facs="tcp:206882:13"/> nor his Apostles, ever mentioned: Indeed, the Scripture is cleare for a place of torment for the wicked, <hi>Tophet</hi> is prepared of old. When <hi>Lazarus</hi> was called to Triumph in Heaven, the Rich man was dragged to Torment in Hell. The Hypocrites have their reward (saith our Saviour) they have their Portion in this life, they have their Heaven here, and therefore are sure of a Hell hereafter: for, <hi>as a man lives, so commonly he dies;</hi> and as he dies,<note place="margin">Eccl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. 11.3.</note> so certainly he lives in the world to come. <hi>As the Tree falls so it lies,</hi> to the North, or to the South, Heaven-wards, or Hell-wards: <hi>As Death leaves us, Judgement findes us.</hi> And if they onely are blessed which die in the Lord, it must follow (by the rule of contraries) that their condition is fearefull who die in their sinnes, in a state of impenitency and unbelief, without godly sorrow in their hearts for sinne, without interest in the blood of Christ by Faith. This arrow wounded <hi>Davids</hi> heart to the pur<g ref="char:EOLhyphen"/>pose,<note place="margin">Plus impius quā rebellis <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xit, <hi>&amp;c. Aug.</hi>
+               </note> to consider his son <hi>Absolon</hi> died with all his sinnes about him, in his rebellion against God, and his Anointed. This drove him into such a strange passion, as it is hard to discover whether his love was more naturall, or carnall, or spirituall. <hi>Oh my Son Absalom,</hi>
+               <note place="margin">2 Sam<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18.33.</note>
+               <hi>Would God I had died for thee,</hi> &amp;c.</p>
+            <p>And indeed it is a wofull thing for a man to have his Lamp out when the Bridegroome comes, for a man to die unreconci<g ref="char:EOLhyphen"/>led to God, if we consider that after death there is no hope of re<g ref="char:EOLhyphen"/>conciliation with God. <hi>While there is Life there is Hope;</hi> but after Death comes Judgement, after Judg<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment Sentence, &amp; after Sen<g ref="char:EOLhyphen"/>tence Ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cution; no hope of a minutes Reprieve, no parlying with the Judge, or pleading for Mercy. It is then too late to cry, <hi>Lord, Lord, open,</hi> too late to knock at Heaven gate for mercy; too late to wring the Hands and bewaile former sinnes. Truly the answer will be cold and comfortlesse: <hi>Depart from me, I know you not.</hi> There was a time when <hi>Richard</hi> the third of that name, King of <hi>England,</hi> cried out, <hi>A Kingdome for a Horse, a Kingdome for a Horse:</hi> in the same language may a wic<g ref="char:EOLhyphen"/>ked man crie out at the day of Judgement, <hi>A Kingdome for a good Conscience, a Kingdome for a drop of Mercy, for an hour of Repen<g ref="char:EOLhyphen"/>tance and Reconciliation.</hi> But alas, then the Tide is past, and the Market is over. This Life is the time of Repentance, this is our working-day for Heaven: now the doore of the Ark is open,
+<pb n="19" facs="tcp:206882:13"/> now Salvation is tendered; behold now is the accepted Time,<note place="margin">2 Cor. 6.2.</note> now is the day of Salvation: I but the Morning comes, and also the Night, if ye will enquire: enquire, returne, come.<note place="margin">Isa. 21.12.</note>
+            </p>
+            <p>I find two Reasons rendred by D vines for our Saviours silence before <hi>Herod.</hi> He answered the H gh Priest,<note place="margin">Luke 23.9.</note> and he a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>swered <hi>Pi<g ref="char:EOLhyphen"/>late,</hi> but he would not speak a word to <hi>Herod.</hi> First, <hi>Herod</hi> had taken away his voice, and therefore how should he speak? He had beheaded <hi>John Baptist,</hi> who was the voice of one crying in the Wildernesse, <hi>Prepare ye the way of the Lord.</hi>
+               <note place="margin">Math 3.3.</note> The second is more substantiall, Christ would not speak to <hi>Herod,</hi> because he would thereby reprove his wilfull ignorance, and damnable carelesnesse: he had lived a great while where Christ abode, where his Oracles and Miracles were known, and yet he had ne<g ref="char:EOLhyphen"/>ver seen his Person, or heard his Sermons. Now (beloved) if we neglect precious opportunities of Mercy, and seasons of Grace, if we be not acquainted with Christ now he lives in our Coasts, and knocks at our Doores, such a dreadfull time will come, when Christ will not speak a word to us, not one word of comfort to us in our greatest distresse; that voice of Wisdome justifies what I say, <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n shall they call upon me,</hi>
+               <note place="margin">Prov. 1.28.</note>
+               <hi>but I will not an<g ref="char:EOLhyphen"/>swer; they shall seek me early, but shall not finde me.</hi> Then; When? <hi>When your feare cometh as Desolation,</hi>
+               <note place="margin">Verse 27.</note>
+               <hi>and your destruction as a Whirlwind.</hi> Well, What's the reason Wisdome will not answer? <hi>Because I called and ye refused I stretched out my hand and no man regarded.</hi> There is no reconciliation. 2.<note place="margin">Verse 24.</note> No hope either of Mi<g ref="char:EOLhyphen"/>tigation or R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>demption, Ease or End: th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is both Extremity and Eternity of punishment for the Wicked after Death, extre<g ref="char:EOLhyphen"/>mity of Heat, Fire and Brimstone, and Soule-tormenting fire is their Portion, extremity of Cold (as some think) by gnashi g of Teeth, then all the Viols will be poured out, Wrath▪ and Curse, &amp; Vengeance, and all, without any possib<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lity of refreshm<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt; there is no Light in the land of utter Darkn sse, no Ho<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in the roaring Lion, not a drop of Water in Hell to coole a scorched Tongue.<note place="margin">
+                  <hi>Luk. 16.24, 25 &amp;c. Verse 26.</hi> Immutabile D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> decretum, ne quisquam un<g ref="char:EOLhyphen"/>quam transiret a statu damnato<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m ad statum fidel<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</note>
+            </p>
+            <p>Lastly, Eternity of punishment. There is a great Gulf fixt be<g ref="char:EOLhyphen"/>tween Heaven and Hell: he that would come from below can<g ref="char:EOLhyphen"/>not: there is an irreversible decree for eternity of joy in Hea<g ref="char:EOLhyphen"/>ven, and torment in Hell: the Fire is unquenchable, the Worme
+<pb n="20" facs="tcp:206882:14"/> is ever gnawing, and never dying, the Destruction perpetuall Confusion, the wicked shall be punished with everlasting de<g ref="char:EOLhyphen"/>struction from the presence of God,<note place="margin">2 Thes. 1▪ 9.</note> and from the glory of his Power.</p>
+            <p>On consider this, ye that forget God ye that hazard the loss of eternall rest and happinesse, for the pleasures of sinne, which are but for a season: What will ye do in the day of v<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sitation? <hi>What will it profit you to gaine the whole World and lose your own Soul?</hi> What will it profit you to get the Vineyard, and the Vengeance of God with it? To get the Talents and the Lepro<g ref="char:EOLhyphen"/>si? to have a Crowne on your head, and a Curse in your heart? To swim in a pleasant Stream of outward glory and prosperity for a Moment, and then to frie in Hell fire for Evermore? This will be the condition of every one that dies in his sinne, unrecon<g ref="char:EOLhyphen"/>ciled to God: and that is the first use of the point. There is nei<g ref="char:EOLhyphen"/>ther Purgatory for the righteous, nor Paradise for the wicked in the world to come.</p>
+            <p>The second use is for comfort to all the faithfull Servants of God. If the Saints departed rest from their Labours, here is then comfort in the Generall against all crosses and calamities in the world, and in Particular against the feare of our owne death, or the death of friends,</p>
+            <p>First, Against the crosses and calamities in the world. This sweetned the bitternesse of <hi>Moses</hi> his affl ction,<note place="margin">Heb. 11.25, 26.</note> he este<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med the reproach of Christ greater riches than the Treasures of <hi>Egypt:</hi> Upon what ground? B<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause he had respect to the recomp<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of reward: his Eye, and Heart, and Hope was in Heaven, that carried him through all calamities with unspeakab<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cheereful<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse.</p>
+            <p>This was the Cordiall which held up the spirits of the faithfull Hebrewes,<note place="margin">Heb. 10.34.</note> they took joyfully the spoyling of their goods, know<g ref="char:EOLhyphen"/>ing that in Heaven they had a b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter, an enduring substance. They were content to exchange Earth for Heaven, to Lose at first, and Win at last, to lose a Counter and win a Crown: they knew Pleasures above are perpetuall,<note place="margin">John 16 22.</note>
+               <hi>Your joy can none take from you;</hi>
+               <note place="margin">Math. 6.20.</note> Riches above are unplunderable riches, <hi>There no Thief can break through and steal.</hi>
+            </p>
+            <p>Yea farther, This was our blessed Saviours encouragement in
+<pb n="21" facs="tcp:206882:14"/> his Agony, in all his heart-breaking afflictions, namely, the Rest in Heaven, the glorious Crowne to be Received: He endured the Crosse, and despised the Shame. Why? Because of the joy that was set before him: He look'd upon the Pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze,<note place="margin">Heb. 12.1.</note> and there<g ref="char:EOLhyphen"/>fore ran his Race with Patience, though he sweat drops of Blood before he came to the end. What encourageth the weather b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aten Marriner, but his hope of a safe Harbour and Haven, after all the dangerous Stormes and Tempests? What encourageth the Traveller that hath ill Weather above his Head, and ill Way un<g ref="char:EOLhyphen"/>der his Feet, but the Meditation of his comfortable Rest at Home, his good F<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, and warm Lodging at night? What en<g ref="char:EOLhyphen"/>couraged <hi>Jacob</hi> to beare that hard Apprentish<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p under <hi>Laban</hi> for seven yeares, and seven yeares more, but hopes of enjoying <hi>Rachel?</hi> He endured the H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at of the day, and the Frost of the night, because he knew his <hi>Rachel</hi> would make amends for all;<note place="margin">Gen. 29.20.</note> he loved her, &amp; therefore the Time seemed to be but short. The same encouragements may all Christians have in the midst of their Afflictions; they may have a rough Tide and a dangerous Voyage, but there is a safe Harbour and Haven of Rest: they may have ill Weather, and ill way in their Journey, but their Home is Heaven, and there is a warm and welcome Lodging provided by their blessed Ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>binger, <hi>Christ Jesus:</hi>
+               <note place="margin">John 14.2.</note>
+               <hi>I go to prepare a place for you.</hi>
+            </p>
+            <p>They may meet with many <hi>Labans</hi> upon earth, hard Appren<g ref="char:EOLhyphen"/>tish ps in this world, yet their comfort is, there is a <hi>Rachel</hi> to receive, Chr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st and his Kingdome to enjoy, Peace, and Glory, and Rest to possesse for ever in Heaven, and this will make amends for all.</p>
+            <p>There is an overflowing Fountain of comfort in that passage of the Apostle,<note place="margin">Rom. 8.18,</note> and it springs from the same ground with this in my Text. I reckon, that the Sufferings of this present time, are not worthy to be compared with the glory that shall be revea<g ref="char:EOLhyphen"/>led hereafter.</p>
+            <p>I reckon, I have cast up the account,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and considered seriously of the matter, summed up all the Sufferings that can be endured or imagined, temporall and spirituall, and I finde they come in<g ref="char:EOLhyphen"/>finitely far short of that rest and recompence of the Saints in Heaven. I have put all the miseries of this life in the balance,
+<pb n="22" facs="tcp:206882:15"/> and behold they are nothing no that exceeding weight of glory which shall be revealed in Heaven, they are not worthy to be compared (to be named the same day) with those incompara<g ref="char:EOLhyphen"/>ble and unconceivable comforts laid up for the righteous in the Kingdome of Glory.</p>
+            <p n="2">2. And more particularly, the Text speaks comfort against the feare of Death, our owne death: there is naturally in man an unwillngnesse to die, and a feare of death: we would linger in <hi>Sodom,</hi> and live still in <hi>Babylon,</hi> though in a state of Bondage; Grace is ever willing. but Nature is ever fearfull to die: Death is terriblest of all terrible things, according to the Philo<g ref="char:EOLhyphen"/>sopher▪ and the King of <hi>Terrors,</hi>
+               <note place="margin">Job 18.14.</note> as <hi>Job</hi> expresseth it; and there<g ref="char:EOLhyphen"/>fore the best of Gods Servants, <hi>Jeremiah,</hi> and <hi>David▪</hi> and <hi>Peter,</hi> and Christ himselfe, as man, declares an unwillingnesse to die, at least a great sadnesse of spirit upon the approaches of death. A word of comfort will be very seasonable in this particular, which I would commend to you under these two notions.</p>
+            <p n="1">1. Death cannot be an enemy to harm.</p>
+            <p n="2">2. Death must be a Friend to help Believers, it cannot be an En<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my. So farre that Promise reaches in the Gospel, <hi>Nothing shall by any meanes hurt you.</hi>
+               <note place="margin">Luke 10.19.</note> Dogs that have no teeth may Bark, but cannot Bite; and Serp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts that have no stings may Hiss, but cannot Hurt; and Enemies that have no weapons may Rage and Threaten, but cannot Wound and Destroy: So (beloved) Death once had the teeth of a Blood-hound, but Christ hath broken them all to pieces; Death once had the Sting of a Serpent, but it is lost in the Side of Christ, in the Wounds of his heart; Death once had a Weapon to destroy, but Christ hath disarmed it: and what infinite comfort is this to Believers, to see Christ ride in Triumph, to see the Captaine of their Salvation bring in Death as a Prisoner, and captived Enemy, saying and singing with the Prophet,<note place="margin">Isa. 25.8.</note>
+               <hi>Death is swallowed up in Victory:</hi> and with the Apostle, <hi>O Death, where is thy Sting? O Grave, where is thy Victory?</hi>
+               <note place="margin">Cor. 15.55, 56.</note>
+               <hi>The sting of Death is Sinne, and the strength of Sinne is the Law: But thanks be to God▪ who hath given us Victory through Christ our Lord.</hi>
+            </p>
+            <p n="2">2. Death must be a friend to help us to help us to our Rest in Heaven. <hi>Blessed are the dead, they rest,</hi> &amp;c. Death (like <hi>Lot</hi>'s
+<pb n="23" facs="tcp:206882:15"/> Angels) plucks us out of the <hi>Sodom</hi> of sinne and misery, and placeth us in <hi>Zoar,</hi> a city of rest, tranquility: like <hi>Peters</hi> Angel, it shakes off the Chaine of mortality, and opens the Iron gate, the gate of Pearle into the New Jerusalem: like <hi>Lazarus</hi> his Angel, it conducts the Soule from Earth to <hi>Abrahams</hi> bosome, from this Vale of Teares to the Kingdome of Glory. Moreover, as Death helps us to our Rest, so it is our R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st: Why should we feare it?</p>
+            <p>The Scripture termes it but a taking away of the Soule to Peace, a gathering to our People, a sweet sleep of the Body.<note place="margin">John 11.11. Acts 7, 60.</note>
+               <hi>Our friend</hi> Laz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rus <hi>sleepeth,</hi> and the Patriarchs are fallen asleep, S. <hi>Stephen</hi> fell asleep: our burying places are but <hi>dormitories,</hi> slee<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g places. <hi>The righteous is taken away from the Evil to come:</hi>
+               <note place="margin">Esay 57.1, 2.</note>
+               <hi>And he shall enter into peace, they shall rest in their beds.</hi> Such a blessed Rest have the righteous in Death; as our Saviour wept, because his friend <hi>Lazarus</hi> was to be deprived of it: it is both the Observation of an ancient Father, and the Resolution of an ancient Council, concerning Christs weeping over <hi>Lazarus,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Jerome Test Tolot. Concil.</note> John 11.35. <hi>Deluit</hi> Lazarum, <hi>non dormientem, sed resurgentem.</hi> Christ did not weep because <hi>Lazarus</hi> was dead, and taken out of the world, but because he was to returne from the Grave into a Troublesome world after he was gone to his R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st.</p>
+            <p>It may be for the same reason,<note place="margin">Fuisse quidam qui ortus homi<g ref="char:EOLhyphen"/>num lugerent, ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tusque cele<g ref="char:EOLhyphen"/>brarent, <hi>&amp;c. Ambr. de fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> resur.</hi>
+               </note> the <hi>Thracians</hi> of old used to la<g ref="char:EOLhyphen"/>ment at the Birth of their children, but rejoice at their Fune<g ref="char:EOLhyphen"/>rall.</p>
+            <p>Thus much we may learn from their practice (though we doe not commend it) that we have some cause to mourne when children are born; b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cause they are born to sinne, and brought forth in inquity; and becaus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are cast into a troublesome Sea of m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sery, which they themselves are in part sensible of, and therefore weep at their coming in.</p>
+            <p>Yet have we this occasion of r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joycing, even in the death and funerall of our Friends, because they are past all the waves of Misery, and arrived at the haven of heavenly Rest and Felicity. This brings me to the third and last stream of comfort, against the death &amp; departure of Friends. The time will come that we must part with our <hi>Isaacs,</hi> our <hi>Benjamines,</hi> nearest Friends, and dearest Comforts. Then remember my Text: If they <hi>die in the Lord,</hi>
+               <pb n="24" facs="tcp:206882:16"/> take no care for them, they are blessed, they are at their rest. <hi>Praemisimus, non amisimus,</hi> They are not lost, but laid up in hea<g ref="char:EOLhyphen"/>ven: when the Lord returned in mercy to <hi>Job,</hi> and was pleased to set him up the second time, we finde that he doubled all his outward comforts, he gave him as many more Camels and Sheep, and Oxen, as he had before; but he restored onely the same num<g ref="char:EOLhyphen"/>ber of children to him; as will appeare by comparing the first, and last Chapters of <hi>Job</hi> together, he gave him seven Sonnes, and three daughters. And the reason is rendred by St. <hi>August,</hi> because his Sheep and Oxen were utterly consumed, but his chil<g ref="char:EOLhyphen"/>dren were in the hand of God; they were at rest, though they suffered a sudden and violent death.</p>
+            <p>But some will say, how shall we live when friends leave us, and Comforts faile us; As <hi>Amaziah</hi> said of the Talents, <hi>What shall I doe for the hundred Talents?</hi>
+               <note place="margin">2 Chron. 25 9.</note> I answer; though friends die, yet the Redeemer lives; if comforts faile, rest upon Providence, rely upon the all-sufficiency of God, the sure mercies of <hi>David;</hi> then put your bonds in Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, the promises of the Gospell, which are all, <hi>yea</hi> and <hi>Amen.</hi> That Promise in <hi>Math.</hi> 6.33. and that especially, <hi>Hebr.</hi> 13.5. He hath said, I <hi>will never leave thee nor forsake thee.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 37.25. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xperto creden<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m est.</hi>
+               </note>Then remember <hi>Davids experience, I have been young, and now am old, yet I never saw the righteous forsaken. David</hi> had ob<g ref="char:EOLhyphen"/>served much in his time, but this he could never observe, that the righteous man was ever forsaken in affl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction. Minde the place well, he doth not say, <hi>I never saw the righteous in affliction;</hi> but <hi>I never saw the righteous forsaken in affliction,</hi> in Poverty, in Disgrace, in Banishment, Imprisonment, &amp;c. God hath sup<g ref="char:EOLhyphen"/>plies and supports for his people in distresse; when Temporall comforts are abated, spirituall joyes abound; as our Saviour said of his meat, so may we say of the Comforts of the godly, they have Comforts which the world knowes not of, and Comforts which the world cannot deprive them of. The testimony of a good Conscience, the L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght of Gods countenance, the love of Christ, and the comforts of the Spirit; these, like the tree at <hi>Me<g ref="char:EOLhyphen"/>ribah,</hi> sweeten the bitter waters of all worldly Tribulations.</p>
+            <p>But some will say, Shall we meet with our friends againe de<g ref="char:EOLhyphen"/>parted in the faith? Yes, without peradventure, if we walk in
+<pb n="25" facs="tcp:206882:16"/> wayes of obedience to the end. It was <hi>Davids</hi> comfort upon the death of his Child.<note place="margin">2 Sam. 12.21.</note> While the child was living <hi>he fasted and wept, and lay upon the ground;</hi> but when it was dead, <hi>he arose and anointed himselfe, and ate bread:</hi> His reason is very strong and convincing.</p>
+            <p n="1">1. An impossibility of recoverie, <hi>He shall not come to mee.</hi>
+            </p>
+            <p n="2">2. An assured hope of meeting againe in Heaven, <hi>But I shall go to him:</hi> He shall not come to me, that would be for his losse, to part with his Rest in H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aven, for a restlesse condition on Earth; but I shall go to him, I have not lost him for ever, we shall meet againe as comfortably as <hi>Jacob</hi> and <hi>Joseph</hi> met in <hi>Egypt;</hi> meet againe in Heaven and never part. Now you know it never troubles us to see the Sun set, because we know it will rise againe in the morning; it never troubles us to part with a friend wh n he goes to bed, because we hope to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e him againe in the morning. Beloved, the death of a Friend is but lik<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the setting of the Sun, or the uncloathing of a man when h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goes to bed, there will be a glorious appearing in the morning of the Resurrection,<note place="margin">1 Thes. 4.13.</note> and therefore S. <hi>Paul</hi> condemnes immoderate sorrow for the dead, <hi>I would not have you sory, as those that have no hope:</hi> Nature will be sorrowfull, but let Grace moderate the sorrow, and keep it within the bounds of hope; and the ground of hope is set downe, <hi>If ye believe that Jesus died,</hi>
+               <note place="margin">Verse 14.</note>
+               <hi>and is risen againe, even so also them that sleep in Jesus, will God bring with him.</hi>
+            </p>
+            <p>I come now to the third and last use of Exhortation, to per<g ref="char:EOLhyphen"/>swade us all to make preparation for death; it is nothing to know the Reward in Heaven, except we doe the work on Earth; no<g ref="char:EOLhyphen"/>thing to wish to die the death of the righteous, except we en<g ref="char:EOLhyphen"/>deavour to live the life of the righteous; therefore, that we may be blessed in life and death, that we may live to the Lord, and die in the Lord, give me leave to commend something to your consideration, and something to your care and consciona<g ref="char:EOLhyphen"/>ble practise. To your consideration:
+<list>
+                  <item>1. The certainty of Death.</item>
+                  <item>2. Uncertainty of the time of Death.</item>
+               </list>
+            </p>
+            <p>The certainty of Death from Gods doom, <hi>Dust thou art</hi> &amp;c.<note place="margin">Gen. 3.19.</note>
+               <pb n="26" facs="tcp:206882:17"/> Dust thou art;<note place="margin">Gen. 3.19.</note> there is <hi>materia prima,</hi> the matter of which man was Composed; and <hi>Ʋnto dust thou shalt return: Resolutio in ma<g ref="char:EOLhyphen"/>teriam primam,</hi> a resolution into the first matter again.</p>
+            <p>
+               <note place="margin">2 Sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14, 15. Heb. 9 27.</note>Indeed there is a necessity for death, since the fall of man, yet not such a necessity as hath no Law; for there is plaine Statute for it; <hi>Statutum est, &amp;c.</hi> It is appointed to all men once to die.</p>
+            <p>Here I must make answer to a double question:
+<list>
+                  <item>1. Whether the Law of mortality be naturall:</item>
+                  <item>2. Whether it be universall or not.</item>
+               </list>
+            </p>
+            <p>To the former, I answer negatively; man was not made mor<g ref="char:EOLhyphen"/>tall, but made himselfe immortall by his sinne. <hi>Pelagius</hi> his Er<g ref="char:EOLhyphen"/>ror hath been condemned by Councells, and therefore I need not stand to confute it, That man died <hi>naturae necessitate, non peccati merito,</hi> by a necessity of Nature, not by a penalty for Sin. This Doctrine would bring the wisdome of God in question, pre<g ref="char:EOLhyphen"/>scribing a Law of mortality, after he had created man mortall.</p>
+            <p n="2">2. It would bring the justice of God in question, to punish with death where no offence is committed. Every penalty is for some iniquity:<note place="margin">Omnis poena est propter aliquam culpam. <hi>Aquin.</hi>
+               </note> This is therefore the conclusion of all Ortho<g ref="char:EOLhyphen"/>dox Divines, <hi>Non expoliandus Corpore, sed supervestiendus im<g ref="char:EOLhyphen"/>mortalite.</hi> There had bin no separation of the body from the soul by death, had there not been a separation of the soul from God by sinne: a possibility to die, is from Nature, a necessity to die is from Sinne, and an impossibility to die is from Grace, <hi>The Wages of Sin is Death.</hi> Rom. 6. <hi>ult.</hi>
+            </p>
+            <p>To the second question, I answer affirmatively. The Law of Mortality is universall. Though the Scripture mentions some that have not died, as <hi>Enoch</hi> and <hi>Elias:</hi> their translation may teach us, that God may make an exception to a generall rul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he can and will dispense with that Law, whereof himselfe is the sole and mediate Author, as he did with the Morall law, in some cases with the sixth commandement, <hi>Thou shalt not kill,</hi> when he commanded <hi>Abraham</hi> to sacrifice his Son: and with the eighth Commandement, <hi>Thou shalt not steale,</hi> when he commanded the <hi>Israelites</hi> to spoyle the <hi>Egyptians.</hi> God is free, and an indepen<g ref="char:EOLhyphen"/>dent Agent; he doth not binde himselfe, when he bindes his people; his Prerogative is above the Law, his Mercy is over all his Works: As the Judge may passe Sentence and yet reprieve
+<pb n="27" facs="tcp:206882:17"/> the Malefactor, so God may condemne the race and generation of Mankinde to be liable to death, and yet may send his royall Dispensation, his gracious pardon for any one in particular. Who can say unto him, <hi>What doest thou?</hi>
+            </p>
+            <p n="2">2. Though the Scripture mention some that shall not die, as they that shall be found alive at the coming of Christ to Judge<g ref="char:EOLhyphen"/>ment. St. <hi>Paul</hi> tells us in plain termes, <hi>we shall not all sleep,</hi>
+               <note place="margin">1 Cor. 15.51.</note>
+               <hi>but we shall be changed:</hi> The meaning is, they shall not so sleep, as to continue in the state of the dead, but be changed in a mo<g ref="char:EOLhyphen"/>ment, in the twinkling of an eye; yet such a change, as they shall have a dissolution, and in the same moment, a redintegration,<note place="margin">Dr. <hi>Donne,</hi> in Psal. 68.20.</note> a reall Death, and a reall resurrection, though no sleeping in the Grave of Corruption.</p>
+            <p>Well then, Let this consideration of certainty of death, sink into your hearts, and take deep impression, and work your spi<g ref="char:EOLhyphen"/>rits to a holy and heavenly frame. <hi>Plato</hi> once complained of the <hi>Argentines, These men live</hi> (sayes he) <hi>as if they should never die.</hi> Truly many Christians live so vainly, and wantonly, and wickedly, as if they should never die, or be called to account, as if Death were but a Scar-crow, or Bugbeare, a painted Hell.</p>
+            <p>You see one Generation passing, and another Generation co<g ref="char:EOLhyphen"/>ming, one Friend and Neighbour drops into the Grave after a<g ref="char:EOLhyphen"/>nother, and when your turne shall be you know not: This you may be assured of, Death will come certainly, and it may be spee<g ref="char:EOLhyphen"/>dily, it may be suddainly, <hi>What man is he that liveth and shall not see Death?</hi> Psal. 89.48.</p>
+            <p>Then againe, consider the uncertainty of the time of death: The rich man promised himselfe a certainty, sung a R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quiem to his soule, as if God had sealed him a Lease of his life for many yeares, <hi>Soule take thine ease, thou hast goods laid up for many years.</hi>
+               <note place="margin">Luke 12.</note> Oh (saith our Saviour) How this man fools himself, he promiseth many years, when he cannot assure himself of one moment: <hi>This night shall thy soule be required of thee: You know not what hour the Judge will come: You know not what o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e day may bring forth:</hi> Many have gone well into the fi ld, and have been brought home in the Been; Many have gone well to bed, and wakened in the pangs of Death; Many make but a step from the Credle to the Grave. Like that creature, <hi>Ephemera,</hi> which lives but eight
+<pb n="28" facs="tcp:206882:18"/> hours. Many die in their ful strength, when their bones are full of Marrow, and their breasts full of Milk: I know it is the practise of the world to procrastinate Repentance, to defer Preparation for death to the very last of all. Presse this duty, and many will an<g ref="char:EOLhyphen"/>swer with <hi>Faelix,</hi>
+               <note place="margin">Acts 24.25.</note> We will heare of this at a convenient season, We will think upon Death and Judgement at our leisure: Or with the <hi>Jewes,</hi>
+               <note place="margin">Hag 1.2.</note> The Time is not yet come: You tell us of pray<g ref="char:EOLhyphen"/>ing &amp; repenting, and pleading for mercy; but the time is not yet come, we must p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ease our phansies, and pamper our lusts first, partake of the jolli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies and jocundities of the world first, we must have the Prod galls spending time, before his repenting-time, we must have <hi>Davids</hi> Pleasure, and <hi>Davids</hi> Penance, we must have a little more Sleep, a little more Slumber, we will think upon Repentance afterward.<note place="margin">Ezek. 18.21.</note> God is mercifull, and <hi>At what time soever a Sinner repents, he will put all his wickednesse out of his remembrance.</hi> Oh but consider, you run upon a desperate ha<g ref="char:EOLhyphen"/>zard all this while: Life is uncertaine, God may cut you off in the midst of your sinnes, and then what will become of your soules? It was a notable answer the widow Woman gave to <hi>Trajan</hi> the Emperour: She comes to him, and demands justice upon him that had slaine her Son: Well, sayes the Emperour, I am now upon my march, and when I come againe, thou shalt have justice. Oh but, replyed the woman, What if my Lord ne<g ref="char:EOLhyphen"/>ver <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome againe? So there are many put off Repentance, and preparation for D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath from youth to middle-age, from middle-age to old age: Why, what if old age never come? Or, what if it doe come? Have you any assurance of the means of grace, or a blessing upon the meanes? God indeed hath promised par<g ref="char:EOLhyphen"/>don to the Penitent; but where hath he promised repentance to the Peccant? Repentance is the gift of God as well as Forgive<g ref="char:EOLhyphen"/>nesse, and truly there is no certainty of it, it is promised but with a peradventure, if God peradventure, will give them repentance. God gave one Sinner repentance at the hour of death (the good Thief on the cross) lest any should despair;<note place="margin">2 Tim. 2.25.</note> yet but one in all the Scriptur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, lest any should presume, as S: <hi>Aug.</hi> excellently. So much as to your consideration.</p>
+            <p n="2">2. And lastly, (and so I shall draw to a conclusion) as to your care, and conscionable practise; I beseech you imbrace and im<g ref="char:EOLhyphen"/>prove
+<pb n="29" facs="tcp:206882:18"/> these few directions, in order to a pious Life, and a peace<g ref="char:EOLhyphen"/>able Death.</p>
+            <p>First, if you would live to the Lord, and dye in the Lord, labour for exemplary purity of life; <hi>Not every one that saith,</hi>
+               <note place="margin">Mat. 7.21.</note>
+               <hi>Lord, Lord, shall enter into the Kingdome, but he that doth the will of the Father.</hi> 'Tis not holinesse in Profession, but holinesse in Conversation, Practicall holinesse, that must carry it out at the day of Judgement. <hi>Blessed are the pure in heart,</hi>
+               <note place="margin">Mat. 5.8.</note>
+               <hi>they shall see God, and blessed are they that doe the Commandements, they shall enter into the City.</hi> They are entituled to Heav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n,<note place="margin">Rev. 22.14.</note> they are qua<g ref="char:EOLhyphen"/>lified for Heaven, they must be pure Virgins that follow the Lamb, they must be cloathed in white Linnen, and have robes washed in the blood of the Lamb; <hi>Solomon</hi> had two Altars, one to sacrifice Beasts on, another to burne Incense on, to teach us to goe to the outward Altar: first, sacrifice our Beasts, mor<g ref="char:EOLhyphen"/>tifie our Corruptions, walke before God in Holinesse and Righ<g ref="char:EOLhyphen"/>teousnesse of life, and then goe to the inner Altar, to offer up our Incense of everlasting praise to God in Heaven.</p>
+            <p>Beloved, holinesse of life is the end of your Redemption, and the ornament of your Profession, and the way to Eternall Salvation: be not deceived,<note place="margin">1 Cor. 6.9.</note>
+               <hi>No unrighteous person shall enter into the Kingdome of God.</hi> Where there is no Purity, there will be no Peace, no Grace, no Glory, no Holinesse, no Happinesse; marke that of <hi>David, He that ordereth his Conversation right,</hi>
+               <note place="margin">Psal. 50.23.</note>
+               <hi>to him will I shew the Salvation of God.</hi> He that orders his Con<g ref="char:EOLhyphen"/>versation right, that is, by a right rule, the Word of God in a right manner, as becomes the Gospell of Christ, and to a right end, the advancement of Gods glory in workes of Piety and Charity; <hi>To him will I shew Salvation, he shall dye in the Lord, and rest from all his labours.</hi>
+            </p>
+            <p>Secondly, If you would live to the Lord, and dye in the Lord, g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the world a bill of Divorcement, otherwise it w ll clip your Wings, and clog your Souls, and hinder your pursuit of Heaven; there is nothing in all the world that is worthy of your affecti<g ref="char:EOLhyphen"/>ons, nothing but what is transitory, and unsatisfactory, and therefore look on it and passe away.</p>
+            <p>
+               <hi>Gregory Nazianzen,</hi>
+               <note place="margin">Ozyza,</note> speakes of a Land which had abundance of curious Flowers in it, but no Corne for Bread to satisfie the
+<pb n="30" facs="tcp:206882:19"/> peoples hunger; the world is very like that Land, here are ma<g ref="char:EOLhyphen"/>ny Flowers, which may please our Sences and our Phantasies, but here is no Corne for Bread, no substantiall satisfying comforts; therefore the Prophet chides,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>say 55.2.</note>
+               <hi>Why doe you lay out your Money for that which is not Bread, and labour for that which satisfies not?</hi> a man may drinke of <hi>Jacob</hi>'s well, but that water will not quench his thirst, he may feed upon husks of worldly v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nities, but they will not fill his belly. The Blessed Trinity onely can fill the Tri<g ref="char:EOLhyphen"/>angular heart of man, my Grace is sufficient, there is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> suffici<g ref="char:EOLhyphen"/>ency in Grace and Glory, but not in Wealth and Honour; Heavens joyes are filling joyes,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sal. 17.15.</note>
+               <hi>When I awake I shall be satisfied,</hi> and therefore doe not prize the Fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh-pots, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cucombers of <hi>Egypt</hi> above the Milke and Honey of <hi>Canaan;</hi> the rivers of <hi>Damascus,</hi> above the streames of <hi>Jordan;</hi> the pleasures of Mortality, above the treasures of Eternity; but place your Af<g ref="char:EOLhyphen"/>fections upon right Objects, upon things above, and not on things below. As Death should be the Subject of your Medita<g ref="char:EOLhyphen"/>tion, so Heaven the Center of your Affections. <hi>Richard</hi> the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, sometimes King of <hi>England,</hi> gave charge that his bowells should be buried at <hi>Charron,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eds Chron.</note> but his heart at <hi>Roan,</hi> the faithfull City, the City of his love: Truly the world deserves but our wast parts, we may bury our bowels in the Earth, but our hearts should be laid up in Heaven, the Royal City, the new Jerusalem, there our Treasure is, there should our hearts be also; our best comforts are in Heaven,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l. 3.20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and our best friends are in Heaven, and therefore should our Conversation be in Heaven, our Traffique and Commerce in Heaven, this was the ground of the Apostles earnest wish for dissolution,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 1.23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>I desire to be loosed, to be with Christ,</hi> &amp;c. it is a Metaphor from Marriners, that are winde-bound in a forraigne Countrey, I desire to lose Anchor, I stay but for a winde that may wast me over into the Isle of Mercy, that I may be with Christ, enjoy the beatificiall Vision, see my Saviour and live for ever with him that loved me, and loved me so dear<g ref="char:EOLhyphen"/>ly, as to shed his blood for my Redemption.</p>
+            <p>Thirdly, Be provident for Eternity, you are Tenants at will, provide for your flitting,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 10.4.</note> act the parts of the wise Steward in the Gospell, to make sure of another house, before you be put out of this.</p>
+            <pb facs="tcp:206882:19"/>
+            <p>Most men have a forecast for the world, to provide Fewell and Fodder in Summer, Oh that we could learne this piece of Spirituall Husbandry, to forecast for Heaven, for the good of the Soule, the one thing needfull. Oh that we could in Health, lay up thoughts for Sicknesse, in the Summer of Prosperity, pro<g ref="char:EOLhyphen"/>vide for a Winter of Adversity; that we could in plentifull years, lay in a stock of Grace, against a spending time of Sick<g ref="char:EOLhyphen"/>nesse, Distraction, Death and Judgement. <hi>Damascene</hi> writes of a Countrey, where the people used to chuse their King common<g ref="char:EOLhyphen"/>ly out of the meanest sort of the People, and upon any dislike would depose him, and banish him into an Island, where he was to be famished to death. One wise King sent before him great store of Money and Provision into the Island, so that when his time of banishment came, he was received with exceeding great joy and Triumph. Now the time is coming when we must be deposed from all worldly Honour, banished by Death, without any Provision with us. <hi>Naked we came,</hi>
+               <note place="margin">Job. 1.21.</note>
+               <hi>and naked we must re<g ref="char:EOLhyphen"/>turne,</hi> it will there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore be wisdome in us to foresee the danger, and provide for the Storme, to send something before us to Heaven, to send our Prayers and Teares, our Faith and Obedi<g ref="char:EOLhyphen"/>ence, to send a good Conscience before, and then after banish<g ref="char:EOLhyphen"/>ment from Earth, we shall finde comfortable and plentifull en<g ref="char:EOLhyphen"/>tertainment in Heaven. 4. And lastly (so I conclude.)</p>
+            <p>Pray for Patience, and Perseverance to the end, how many with <hi>Demas</hi> forsake Christ, and embrace this present world?<note place="margin">2 Tim. 4.1</note> how many faint and tire in the race to Salvation, before they come at the mark of Glory? like the <hi>Israelites,</hi> they come to <hi>Kadesh barnea,</hi> but come not to <hi>Canaan.</hi> Whereas indeed the motion of piety should be <hi>velocior in fine,</hi> quickest in the end; we should not content our selves with <hi>Moses,</hi> to look into <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> by an outward Profession, but with <hi>Joshuah,</hi> enter <hi>Cannan</hi> by practice, and perseverance in a holy Conversation. Some Philosophers conceived the Soule grew more and more Divine towards the time of its parting from the Body, it should indeed be the Christians prayer and care to grow in grace as he grows in y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars, to bring up the best wine at last, to mend his pace in his journey, and hold out to the end, like the two Milch Kine, which left their Calves behinde them, and went still for<g ref="char:EOLhyphen"/>ward,
+<pb facs="tcp:206882:20"/> till they came at <hi>Bethshemesh,</hi>
+               <note place="margin">Sam. 6.12.</note> that so his latter end may be better than his beginning, and the day of his Death be better than the day of his Birth.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>emin. ex <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ristot.</note>Some report of the Mole, that though she is blinde all her life, yet she seems to open her eyes when she is ready to dye; I feare many of us are blinde in Soule for many yeares, we doe not remember our Creator in the dayes of our youth, we doe not present God with the fat of the Sacrifice, and the first fruits of our yeares, yet however when we came neare the borders of Death, let us open the eyes of our Soules, and look up to our Redeemer Christ Jesus, that we may sing old <hi>Simeons</hi> Swan-like Song with cheerfulnesse; <hi>Lord let thy Servant depart in Peace, for mine eyes have seen thy Salvation,</hi> that so after a Troublesome Life, we may have a peaceable Death, and after Death a glori<g ref="char:EOLhyphen"/>ous reward of everlasting rest in Heaven, according to this, voicc from Heaven in the Text. <hi>Blessed are the dead which dye in the Lord, for they rest from their labours, and their works follow them.</hi>
+            </p>
+            <div type="funeral_oration">
+               <pb n="33" facs="tcp:206882:20"/>
+               <head>Commemoratio funebris in Memoriam ANNae TIRVVHYTT.</head>
+               <p>I Have now done with the Text, and now come to addresse my selfe unto that sad occasion, which hath given my present D scourse this Mourning suit. The occasion of our present meeting is to solemn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ze the Funerall of this deceased Gen<g ref="char:EOLhyphen"/>tlewoman, Mrs. <hi>Anne Tyrwhytt,</hi> to doe our last office to her body, by affording it the benefit of a Christian and comely bu<g ref="char:EOLhyphen"/>riall.</p>
+               <p>Concerning whom, I might upon very good and warrantable grounds, enlarge my Discou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se in the description of the blessed<g ref="char:EOLhyphen"/>nesse, both of her Life and Death, but as the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ator said <hi>Quid opus est verbis?</hi> What need is there of words, when her d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eds are so manifest? What need I light the Candle of verball Commen<g ref="char:EOLhyphen"/>dations, when the light of her Rel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gious life shines so clearly be<g ref="char:EOLhyphen"/>fore your eyes, as you cannot but magnifie her vertues, and by that meanes glorifie your Father which is in Heaven? S. <hi>Origen</hi> tells us, our Saviour refused to answer his accusers in the Go<g ref="char:EOLhyphen"/>sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, because his workes did so palpably, and powerfully con<g ref="char:EOLhyphen"/>fute them: well might I be silent, and forbeare Funerall Com<g ref="char:EOLhyphen"/>mendations at this present, when she being dead yet speaketh; when the exemplary Piety of her life is so famously known to all the world about her. Yet in regard the Commemoration of her godly Life, and the preservation of her Vertues (the true re<g ref="char:EOLhyphen"/>liques of the Saints) for the view of Posterity cannot chuse but be a work acceptable to God, and profitable to our selves; ac<g ref="char:EOLhyphen"/>ceptable to God, who in her fame is chiefly hon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ured, as the sole Author of every good and perfect gift: so <hi>Nazianzen</hi> spake once of Holy <hi>Athanasius,</hi> by praising <hi>Athanasius</hi> I p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aise Ver<g ref="char:EOLhyphen"/>tue it selfe; and againe, by praising Vertue, I give glory to the God of Vertue, by whose grace alone, Man is made Vertuous; and then a worke profitable to our selves, because commonly
+<pb n="34" facs="tcp:206882:21"/> we learne more by Patterns, than Precepts. The Histories of Good mens lives, are our most choice and compendious instru<g ref="char:EOLhyphen"/>ctions, and teach us more in one exemplary line, than Precepts doe in whole Volumes. Upon these grounds I desire to build my following Discourse, wherein my endeavour shall be to ac<g ref="char:EOLhyphen"/>quaint; or rather reminde you of many memorable passages, worthy both of your Observation, and Imitation, in this religi<g ref="char:EOLhyphen"/>gious Gentlewoman.</p>
+               <p>Now my Text being a Text of Blessednesse, we shall consider the Blessednesse of her Life, and the Blessednesse of her Death, for the Blessednesse of her Life, we may look upon her under a double Notion; 1. As she stood in relation to God. 2. In relation to the world.</p>
+               <p n="1">1. As she stood in relation to God, and here we may take notice of the Graces she practised, and the Duties she perform<g ref="char:EOLhyphen"/>ed. First, the Graces she practised, and of them I might say as <hi>Leah</hi> of <hi>Gad, Behold a Troop:</hi> I could present you with a gol<g ref="char:EOLhyphen"/>den chaine, of supernaturall vertues, which she ware to her dying day, and houre.</p>
+               <p>The first <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inke in this golden chaine is her Faith, which was Orthodoxe and Operative. Orthodoxe, she lived and dyed in the bosoms of the Church, in the True Protestant Faith wherein she was bred and borne. Neither Worshipping the Image of <hi>Baal,</hi> nor failing downe to the golden Calves set up in <hi>Dan,</hi> and <hi>Bethel;</hi> neither leaning to Popery on the one hand, nor list<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing after novelties on the other, but kept the good old way in the middle; so steering her course by the compasse of Scrip<g ref="char:EOLhyphen"/>ture, she sailed safely b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tween two Rocks to the Haven of her rest. She walked in the Furnace of the Churches Triall, (like the noble Jews at <hi>Babylon</hi>) without singei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g her Garments,<note place="margin">Dan. 3.27.</note> and came forth at last without any smell of fire, the least smell of Fa<g ref="char:EOLhyphen"/>ction or Superstition upon her.</p>
+               <p n="2">2. Her Faith was operative, manifested in, and attended with a glorious Train of works of Obedience and Righteousnesse. She was a burning and a shining Lampe, a reall, not a verball pro<g ref="char:EOLhyphen"/>fessor. She wore her spirituall Garments in the old f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, in <hi>Aarons</hi> fashion with Bells and Pomegranats. <hi>Exo.</hi> 28 33. Bells, as the sound of an Orthodoxe Faith in her profession, and
+<pb n="35" facs="tcp:206882:21"/> Pomegranates, as a sweet perfume of godlinesse in her Practice and Conversation. Christ was the foundation stone in the fabrick of her Faith, and works of Piety, and Charity, the superstructure, the Top-stones in the Temple of the holy Ghost within her.</p>
+               <p n="2">2. A second linke in this golden chaine, is her Patience, it pleas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the Lord to bring her to the Crowne by the Crosse, to bring her to <hi>Canaan</hi> through the Wildernesse of Affl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions and molestations in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he world: But who ever heard her complaine against the Lord in the Wildernesse, or tempt the Holy one, by murmuring as the Israelites did? W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ever knew her either cap<g ref="char:EOLhyphen"/>tivated by her Passion within, or extreamely cast downe by any losse or crosse without? She wrestled with many difficulties, and calamities but came off from all with a conquering Patience.<note place="margin">Fortior est, qui se, quà<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> qui fortissima, vin<g ref="char:EOLhyphen"/>cit Maenia.</note> This (according to the Philosophers) is the better part of true fortitude, which consists in su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>prizing the Rebellious perturbati<g ref="char:EOLhyphen"/>ons of grief and anger in the minde, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is the height of true valour to overcome our selves, we have <hi>Solomons</hi> Opinion to back the Philosophers and Poets, <hi>He that ruleth his Spirit,</hi>
+                  <note place="margin">Prov. 16.32.</note>
+                  <hi>is better than he that taketh the City.</hi>
+               </p>
+               <p>This Grace was not onely manifest in her life, but continued in her sicknesse, to death it selfe: In all her extremity she had recourse to our Saviours pattern and practise, saying, as he in his Agony, <hi>Not My will, but Thy will be done;</hi> an evident testimo<g ref="char:EOLhyphen"/>ny, that she was well pleased with the chastning of the Lord, submitting cheerfully to his Will and Wisdome in all her di<g ref="char:EOLhyphen"/>stresse. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us she was faithfull in doing, and suffering also, unto death, and therefore we may be confident Christ hath enriched her with a Crown of Life.<note place="margin">Rev. 2.10.</note>
+               </p>
+               <p>In the third place, her Humility was remarkable. This was another Diamond in the crown of her praise, another Flower which flourish d in the garden of her heart. Pride, that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sinua<g ref="char:EOLhyphen"/>ting Serpent, could finde no harbour in the Paradise of her Breast. Temptations she might have from worldly respects, as <hi>David</hi> had from the multitude of his people.</p>
+               <p>
+                  <hi>Hezekiah</hi> from the richnesse of his treasure; so she, from the noble fame of her worthy Ancestors being descended from one of the best Families in <hi>Nottingham-shire,</hi> and matched into one of the best Families in <hi>Lincoln shire;</hi> yet far she was from
+<pb n="93" facs="tcp:206882:22"/> being puffed up with a vain glorious conceit of her self in respect of these outward considerations, but ever had regard to her spi<g ref="char:EOLhyphen"/>rituall priviledges, the ornament of the inward Man, to be cloa<g ref="char:EOLhyphen"/>thed with a Garment of Meekness, and graced with knots and ribbons of Humility (as some render that word in 1 <hi>Pet.</hi> 5.5. in this also) following the footsteps, and writing after the copy of our Saviour,<note place="margin">Math. 11.29.</note>
+                  <hi>Learn of me, for I am lowlie and meeke, and ye shall finde rest to your soules.</hi>
+               </p>
+               <p>The fourth link in the golden Chaine, is her Sincerity, and up<g ref="char:EOLhyphen"/>rightness of heart; as she was without gaule of Envy, so without guile of Hypocrisie. Sincere, <hi>sine cerâ,</hi> all Honey, without any Wax; all Gold, without any Dross, or counterfeit Metall; any superficiall Varnish of D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssimulation in her words or action: Her Practise was answerable to her Prof<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssion, and her life agreeable to her Faith: indeed her Body alwaies carried a sweet presence, yet her Beauty lay within, like the Queens Daughter, she was all glorious within; her in-side was the best side, her inward cloathing was of wrought Gold, and that is it which is most acceptable in the sight of God;<note place="margin">1 Sam. 16.7.</note> he looks at the heart, his eyes of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bservation and affection, are upon the <hi>Nathanaels, Israel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tes,</hi> indeed, in whom is no gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le.</p>
+               <p>This was a ground of infinite comfort to her spirit, in the time of her sickness, as it was to <hi>Hezekiah,</hi> when a message of Death was sent him,<note place="margin">Isa. 38 1.3</note>
+                  <hi>Remember Lord, how I have walked before thee in truth, and with a perfect heart:</hi> and to <hi>Samuel,</hi> when he made his last appeale,<note place="margin">1 Sam. 12.3.</note>
+                  <hi>Whose Ox have I taken?</hi> &amp;c. The same m ght she make to all the world, <hi>Whose Ox have I taken?</hi> &amp;c. Whom have I defrauded or oppressed, or impoverished? Witness against me before the Lord, &amp;c.</p>
+               <p>I could gather many more F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owers to make up the Garland of her praise, but the time prevents me, and therefore I conclude this, with <hi>Solomons</hi> commendation of the good Huswife, <hi>Many Daughters have done vertuously,</hi>
+                  <note place="margin">Prov. 31.</note>
+                  <hi>but thou excellest them all.</hi> Thus I have done with the golden chaine of her Graces, onely let me intreat you to weare it for her sake, for your owne sake, for Christs sake, that it may goe well with you, both in life and death, that you (with her) may live desired, and the lamented, having the prayers of men in your life, and the praises of men when you are dead and gone.</p>
+               <pb n="37" facs="tcp:206882:22"/>
+               <p>The next particular concernes the Duty she performed. To name but two, Hearing and Praying.</p>
+               <p>Hearing, you are witnesses of her constant waiting at Wis<g ref="char:EOLhyphen"/>domes gate, and daily attending at the Posts of these Doors, how she wore the Threshold of this Temple with her diligent feet, how she longed, with <hi>David,</hi> to dwell in the house of the Lord all the dayes of her life, and how sometimes she would hazard the health of her Body, rather than neglect the welfare of her Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. And lastly, when by indisposition of health she could not feast with God in his Publique Ordinances; how carefull she was to make use of that Provision which God had sent her at home, by hearing divine instructions, read to her by those that were about her.</p>
+               <p n="2">2. For Praying it was her daily sacrifice, and hourely imploy<g ref="char:EOLhyphen"/>ment. That passage in the Gospel hath often put me in minde of her: there we finde a Prophetesse of the same name,<note place="margin">Luke 2.36, 37.</note>
+                  <hi>Anna,</hi> in the same condition, a Widdow, much what of the same age, Fourscore and four yeares, and of the same devotion; she de<g ref="char:EOLhyphen"/>parted not from the Temple, but served God by fasting and prayer, night and day. It is well knowne what a great part of the day this religious Gentlewoman spent in private devotions, during the time of her health; and in her sicknesse, it was her continuall exercise to call upon God for pardoning, and preser<g ref="char:EOLhyphen"/>ving mercies, which she cheerefully performed (while she was able) with the outward expression of the voice, and when the naturall strength of the body decayed, she was st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll ready to pre<g ref="char:EOLhyphen"/>sent the Lord with the sacrifice of her heart, as appeared by the frequent lifting up of her hands and eyes towards Heaven. In a word, she delighted to sing <hi>Hosannaes</hi> by prayer on earth, &amp; there<g ref="char:EOLhyphen"/>fore God hath taken her to sing <hi>Allelujahs</hi> of praise in Heaven.</p>
+               <p>So much for the first particular, as she stood in relation to God.</p>
+               <p n="2">2. The blessednesse of her life is considerable, as she stood in re<g ref="char:EOLhyphen"/>lation to the World. Here indeed I might multiply particulars, and begin with her Piety (as Civilians call it) to her children, being religiously carefull to promote their interest, both in re<g ref="char:EOLhyphen"/>ference to this world, and that which is to come. Although, through some cross acts of Providence, she was disappointed in her hopes of setling such fortunes upon them as m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght be expe<g ref="char:EOLhyphen"/>cted
+<pb n="38" facs="tcp:206882:23"/> from such a considerable estate; yet was it her comfort, that she left them a present competency, with hopes of speedy improvement, by the recovery of those debts which she had with much charge and trouble, long contended for; specially her hope was, God had estated her children in Grace given them a portion of spirituall comforts, and therefore would deny them so much of the world, as should make most for his owne glory, and their everlasting happiness, according to our Saviours Pro<g ref="char:EOLhyphen"/>mise, <hi>Math.</hi> 6.23.</p>
+               <p>In the next place, we might consider her Hospitality to strangers. Famous she was for good House-keeping, for a free, and generous, and bountifull Entertainment. She was so much given to Hospitality, as she made her owne House a Hospitall: thither came the Lame, and the Blinde, and the Diseased, and that without money, or money-worth, for the cure and reco<g ref="char:EOLhyphen"/>very. She was indeed, Eyes to theb linde, and Feet to the lame: She was a Mother to the poore, and the cause she knew not she searched out,<note place="margin">Job 29.15, 16.</note> as that holy Man speaks of himselfe. This brings in her Charity to the Poore: S <hi>Paul</hi> sets downe two characters of the Widdow indeed, both remarkable in her, <hi>To lodge Strangers, and to relieve the Afflicted▪</hi> 1 Tim. 5.10. How many Widdowes have been sustained by her liberality, how many Fatherless children have eaten bread at her Doore, in her House, at her Table, I need not tell you, but appeale to your owne experince. <hi>She heard the cry of the Fatherlesse, and made the Widdowes heart to sing for joy,</hi> Job. 29 12, 13.</p>
+               <p>
+                  <note place="margin">Psal. 112.9.</note>K. <hi>James</hi>'s father was called the poor mans King, She might be called the poor mans Widdow, she dispersed abroad, and gave to the poor,<note place="margin">Eccles. 11.1, 2. Luke 12.24.</note> she gave a portion to Seven, and also to Eight, she cast her Bread upon the Waters, and, like the wise Steward in the Gospel, provided portions for the poore in due season.</p>
+               <p>What need I mention her veracity, her reall and true affection to her Friends, her affability and bounty to her Servants and Tenants; her respect and reverence to the Clergie, acting <hi>Mar<g ref="char:EOLhyphen"/>tha</hi>'s part, as well as <hi>Marie</hi>'s; not onely feasting her soule upon Christ in his Doctrine, but also feasting Christ in his Members, and Messengers, with a bountifull Hand, and a cheerfull Heart.</p>
+               <p>Put all these together, and you will conclude her death to be
+<pb facs="tcp:206882:23"/> a great and generall losse; not my losse, or yours, but the Coun<g ref="char:EOLhyphen"/>trey's, the Kingdomes, the Churches losse, in which every one of us beareth so great a share, as our Hearts, and Eyes, and Tongues, may well want Sighs, and Teares, and Words to expresse our Grief. All our hope is of another <hi>Phaenix,</hi> that as one Star sets, another will rise, that they which come after her, will inherit her Vertues with her Lands, that so <hi>Camringham</hi> may still be fa<g ref="char:EOLhyphen"/>mous for the Practice and Patronage of Vertue and Religion, for eminent works of Piety and Charity, though she be dead and gone.</p>
+               <p>Thus you have seen the coats and garments which our <hi>Dorcas</hi> made, when she was alive: The blessednesse of her life. But a word or two concerning the blessednesse of her death, and I shall conclude.</p>
+               <p>There are many of the Saints in the Scripture remarkably blessed in their deaths: I may fitly compare this Gentlewoman to three, esp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cially of that noble Generation, <hi>Abraham, Moses,</hi> and <hi>Paul. Abraham</hi> died blessedly, <hi>He di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in a good old age,</hi>
+                  <note place="margin">Gen. 25.8. Prov. 16.31.</note>
+                  <hi>an old man, and full of dayes:</hi> But is there any blessednesse in that? Yes, sayes the Wise man, <hi>Gray haires are a crowne of honour, when they are found in a way of righteousnesse:</hi> and we know it was a curse pronounced against old <hi>Eli,</hi> That there should not be an old Man left in his house. 1 <hi>Sam.</hi> 2.31. Thus our deceased Sister here died, with credit and comfort in a good old age, an old Woman, and full of dayes, an old Christian, an old D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sciple, as as well an old Woman: she was full of Daies, and full of Grace, full of Faith and good Works, full of the fruits of Righteousness, which made her to be a venerable spectacle, beautifull, infinitely above all the comelinesse of youth. She did much good upon Earth, and there<g ref="char:EOLhyphen"/>fore God called her late to Heaven. She died the death of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi>
+               </p>
+               <p n="2">2. She died the death of <hi>Moses:</hi> He died leisurely, God gave him notice of his journy before-hand, for his better preparation, <hi>Go up to the Mount and die:</hi> So departed she from the world, not before she expected death, not before she provided for death: God was pleased in mercy to give her warning, before she flitted, to ring her Passing-bell in her Soule many daies before she died; and whereas many are flattered with hopes of life, till the very
+<pb facs="tcp:206882:24"/> hour of death; yet she was upon a meditation of death from the first beginning of her sicknes: Death was not sudden to her, either in respect of expectation, or preparation; she had her Wedding-garment on, and her Lamp trimmed with Faith and a good Con<g ref="char:EOLhyphen"/>science; she was ready for Death, and ripe for Eternity: behold she is coming to the Grave, and she comes as a Shock of corne from the field in due season.<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 5.26.</note>
+               </p>
+               <p n="3">3. And lastly she died the death of <hi>Paul,</hi> not as <hi>Paul</hi> by a vio<g ref="char:EOLhyphen"/>lent Hand, but as <hi>Paul</hi> with a willing Heart: I desire (sayes he) to be dissolved, and to be with Christ: so she was a voluntiere in death;<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>il. 1.23.</note> Death was welcome to her, because the World was a burden to her. In a word; she was sensible of the labour of sinne and sorrow upon Earth, and therefore earnestly desired her rest in Heaven; which rest (I doubt not) but she hath obtained to her endlesse joy and comfort: She lived Conscionably, died Com<g ref="char:EOLhyphen"/>fortably, and now reignes Gloriously. We may be confident, God hath (in her) a Servant lesse on Earth, and a Saint more in Heaven. And here we leave her, and returne to our selves:</p>
+               <p>Beseeching Almighty God, that he would give us grace to fol<g ref="char:EOLhyphen"/>low the precious example of her blessed life, that we may make it our work and businesse to live well, and die well; to live to the Lord in Holinesse here, that we may live with the Lord in Happinesse hereafter: Which mercy he vouchsafeth us, who hath dearly bought us, Jesus Christ the righteous, To whom, with the Father, and the Holy Spirit, we ascribe all Honour, Glo<g ref="char:EOLhyphen"/>ry, and Dominion, now, and for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>Soli Deo, Laus omnis.</trailer>
+            <pb facs="tcp:206882:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
